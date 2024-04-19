@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@font-face {
+    font-family: halloween;
+    src: url(../fonts/HappyHalloween.ttf);
+}
+
+.halloween {
+    font-family: halloween;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.montserrat-light {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.montserrat-regular {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.montserrat-medium {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.montserrat-semibold {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.montserrat-bold {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.montserrat-extrabold {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+}
+
+@media (max-width: 576px) {
+
+    /*HP*/
+    .font-3-5rem {
+        font-size: 2.5rem;
+    }
+
+    .font-3rem {
+        font-size: 2rem;
+    }
+
+    .font-2-5rem {
+        font-size: 1.8rem;
+    }
+
+    .font-2rem {
+        font-size: 1.5rem;
+    }
+
+    .font-0-8rem {
+        font-size: 0.9rem;
+    }
+
+    .font-1rem {
+        font-size: 1rem;
+    }
+
+    .font-1-2rem {
+        font-size: 1.1rem;
+    }
+
+    .font-1-5rem {
+        font-size: 1.2rem;
+    }
+
+    .bg-data {
+        background-size: cover;
+    }
+}
+
+@media (min-width: 768px) {
+
+    /*Laptop*/
+    .font-3-5rem {
+        font-size: 3.5rem;
+    }
+
+    .font-3rem {
+        font-size: 3rem;
+    }
+
+    .font-2-5rem {
+        font-size: 2.5rem;
+    }
+
+    .font-2rem {
+        font-size: 2rem;
+    }
+
+    .font-1rem {
+        font-size: 1rem;
+    }
+
+    .font-0-8rem {
+        font-size: 0.8rem;
+    }
+
+    .font-1-2rem {
+        font-size: 1.2rem;
+    }
+
+    .font-1-5rem {
+        font-size: 1.5rem;
+    }
+
+    .bg-data {
+        background-size: contain;
+    }
+}
+
+
+.bg-1 {
+    background-color: rgb(49, 46, 53);
+    background-image: url(../img/bg.png);
+    background-size: cover;
+}
+
+.bg-data {
+    background-image: url(../img/card.png);
+}
