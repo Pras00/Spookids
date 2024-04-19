@@ -3,9 +3,139 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.tailwindcss.com"></script>
   <title>JV Page</title>
 </head>
-<body>
-  
+<body class="bg-[url('./img/bg-1.png')] bg-center bg-cover bg-repeat bg-fixed overflow-x-hidden">
+  <!-- Navbar -->
+  <section class="bg-[#ffe7b4] py-3 max-[480px]:py-2 mt-8 max-[480px]:mt-5 mx-5 rounded-[50px] sticky top-2 z-10">
+    <nav class="flex justify-between items-center">
+      <div class="ml-12">
+        <img class="w-[6%] max-[992px]:w-[12%]" src="./img/logo.png" alt="logo">
+      </div>
+      <div class="min-[769px]:flex min-[320px]:hidden justify-evenly items-center bg-white w-[38rem] max-[992px]:w-[90rem] py-4 rounded-[30px] mr-4">
+        <a href="#contest" class="smooth-scroll flex justify-center items-center gap-1 rounded-[30px]">
+          <p class="font-medium">contest</p>
+          <svg class="text-[#FC9850]" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-send" viewBox="0 0 16 16">
+            <path d="M15.854.146a.5.5 0 0 1 .11.54l-5.819 14.547a.75.75 0 0 1-1.329.124l-3.178-4.995L.643 7.184a.75.75 0 0 1 .124-1.33L15.314.037a.5.5 0 0 1 .54.11ZM6.636 10.07l2.761 4.338L14.13 2.576zm6.787-8.201L1.591 6.602l4.339 2.76z"/>
+          </svg>
+        </a>
+        <a href="#affiliate" class="smooth-scroll flex justify-center items-center gap-1 rounded-[30px]">
+          <p class="font-medium">Affiliate Link</p>
+          <svg class="text-[#FC9850]" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-send" viewBox="0 0 16 16">
+            <path d="M15.854.146a.5.5 0 0 1 .11.54l-5.819 14.547a.75.75 0 0 1-1.329.124l-3.178-4.995L.643 7.184a.75.75 0 0 1 .124-1.33L15.314.037a.5.5 0 0 1 .54.11ZM6.636 10.07l2.761 4.338L14.13 2.576zm6.787-8.201L1.591 6.602l4.339 2.76z"/>
+          </svg>
+        </a>
+        <a href="#promotion" class="smooth-scroll flex justify-center items-center gap-1 rounded-[30px]">
+          <p class="font-medium">Promotion Material</p>
+          <svg class="text-[#FC9850]" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-send" viewBox="0 0 16 16">
+            <path d="M15.854.146a.5.5 0 0 1 .11.54l-5.819 14.547a.75.75 0 0 1-1.329.124l-3.178-4.995L.643 7.184a.75.75 0 0 1 .124-1.33L15.314.037a.5.5 0 0 1 .54.11ZM6.636 10.07l2.761 4.338L14.13 2.576zm6.787-8.201L1.591 6.602l4.339 2.76z"/>
+          </svg>
+        </a>
+      </div>
+      <div class="container min-[769px]:hidden min-[320px]:flex flex-col items-end mr-10 mt-1 cursor-pointer" onclick="myFunction(this)">
+        <div class="bar1 w-9 h-1 bg-white mb-1 rounded-[20px]"></div>
+        <div class="bar2 w-9 h-1 bg-white mb-1 rounded-[20px]"></div>
+        <div class="bar3 w-9 h-1 bg-white mb-1 rounded-[20px]"></div>
+      </div>
+    </nav>
+    <div class="burger flex-col justify-center items-end mr-10 mt-5 gap-3">
+      <a href="#contest" class="smooth-scroll flex justify-center items-center gap-2 rounded-[30px]">
+        <p class="font-medium text-white">contest</p>
+        <svg class="text-white" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-send" viewBox="0 0 16 16">
+          <path d="M15.854.146a.5.5 0 0 1 .11.54l-5.819 14.547a.75.75 0 0 1-1.329.124l-3.178-4.995L.643 7.184a.75.75 0 0 1 .124-1.33L15.314.037a.5.5 0 0 1 .54.11ZM6.636 10.07l2.761 4.338L14.13 2.576zm6.787-8.201L1.591 6.602l4.339 2.76z"/>
+        </svg>
+      </a>
+      <a href="#affiliate" class="smooth-scroll flex justify-center items-center gap-2 rounded-[30px]">
+        <p class="font-medium text-white">Affiliate Link</p>
+        <svg class="text-white" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-send" viewBox="0 0 16 16">
+          <path d="M15.854.146a.5.5 0 0 1 .11.54l-5.819 14.547a.75.75 0 0 1-1.329.124l-3.178-4.995L.643 7.184a.75.75 0 0 1 .124-1.33L15.314.037a.5.5 0 0 1 .54.11ZM6.636 10.07l2.761 4.338L14.13 2.576zm6.787-8.201L1.591 6.602l4.339 2.76z"/>
+        </svg>
+      </a>
+      <a href="#promotion" class="smooth-scroll flex justify-center items-center gap-2 rounded-[30px]">
+        <p class="font-medium text-white">Promotion Material</p>
+        <svg class="text-white" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-send" viewBox="0 0 16 16">
+          <path d="M15.854.146a.5.5 0 0 1 .11.54l-5.819 14.547a.75.75 0 0 1-1.329.124l-3.178-4.995L.643 7.184a.75.75 0 0 1 .124-1.33L15.314.037a.5.5 0 0 1 .54.11ZM6.636 10.07l2.761 4.338L14.13 2.576zm6.787-8.201L1.591 6.602l4.339 2.76z"/>
+        </svg>
+      </a>
+    </div>
+  </section>
+
+  <!-- Hero -->
+  <section>
+    <div class="flex flex-col justify-center items-center text-center px-40 max-[992px]:px-24 max-[768px]:px-8 max-[480px]:px-4 mt-16 max-[768px]:mt-12 max-[480px]:mt-7">
+      <h1 class="headline text-[4rem] max-[992px]:text-[3rem] max-[768px]:text-[2.65rem] max-[480px]:text-[1.5rem] leading-[4rem] max-[768px]:leading-[3rem] max-[480px]:leading-[2rem] text-[#ffe7b4]">Turn Bedtime into a Spooktacular Adventure with <span class="headline text-[#FC9850] font-">Spookids</span>: The Ultimate Collection of Short Horror Videos for Kids</h1>
+      <div class="bg-[#FC9850] px-10 max-[992px]:px-5 max-[480px]:px-2 py-2 rounded-[20px] mt-5">
+        <h3 class="sub-headline tracking-[1px] text-[1.65rem] max-[992px]:text-[1.5rem] max-[768px]:text-[1.35rem] max-[480px]:text-[0.8rem] text-[#ffe7b4] font-semibold leading-[2rem] max-[768px]:leading-[1.5rem] max-[480px]:leading-[1rem]">Over 30+ Spooky Tales to Choose From: Keep your audience entertained and engaged</h3>
+      </div>
+    </div>
+    <div class="flex justify-center items-center mt-16 mb-12 max-[768px]:my-8 max-[480px]:my-5">
+      <img class="w-[65rem] max-[992px]:w-[50rem] max-[768px]:w-[40rem] max-[480px]:w-[25rem]" src="./img/BoxMockup.png" alt="">
+    </div>
+    <div class="text-center text-[#ffe7b4] px-40 max-[992px]:px-24 max-[768px]:px-8 max-[480px]:px-4 text-[1.25rem] max-[992px]:text-[1.15rem] max-[768px]:text-[1rem] max-[480px]:text-[0.65rem] leading-[2rem] max-[992px]:leading-[2rem] max-[768px]:leading-[1.5rem] max-[480px]:leading-[1rem]">
+      <h3>Elevate your content strategy with spooky tales! Expand your social media following with short horror stories for kids that both entertain and teach. Start captivating your audience today!</h3>
+    </div>
+  </section>
+
+  <!-- Timeline -->
+  <div class="flex justify-center items-center my-10 max-[992px]:my-12 max-[768px]:my-8 max-[480px]:my-5 w-full">
+    <img class="w-[50rem] max-[992px]:w-[40rem] max-[768px]:w-[30rem] max-[480px]:w-[20rem]" src="./img/start-end.svg" alt="">
+  </div>
+
+  <!-- Countdown -->
+  <section class="countdown-container flex flex-col justify-center items-center w-ful">
+    <h3 class="text-[2rem] max-[992px]:text-[1.75rem] max-[768px]:text-[1.5rem] text-[#ffe7b4] font-light text-center w-[60rem]">Going Live - Saturday, 10th March 2024, 09:00 AM EST</h3>
+    <div class="countdown flex justify-center items-start gap-4">
+      <div class="flex flex-col justify-center items-center">
+        <div class="days text-[#FC9850] text-[5rem] font-medium"></div>
+        <p class="text-[#D9D9D9] text-[1.5rem] -mt-5">Days</p>
+      </div>
+      <div class="text-[#ffe7b4] text-[5rem] font-medium">:</div>
+      <div class="flex flex-col justify-center items-center">
+        <div class="hours text-[#FC9850] text-[5rem] font-medium"></div>
+        <p class="text-[#D9D9D9] text-[1.5rem] -mt-5">Hours</p>
+      </div>
+      <div class="text-[#ffe7b4] text-[5rem] font-medium">:</div>
+      <div class="flex flex-col justify-center items-center">
+        <div class="minutes text-[#FC9850] text-[5rem] font-medium"></div>
+        <p class="text-[#D9D9D9] text-[1.5rem] -mt-5">Minutes</p>
+      </div>
+    </div>
+    <div class="flex flex-col justify-center items-center relative">
+      <div class="flex justify-center items-center">
+        <div class=" text-center flex justify-center items-center w-80">
+          <h3 class="happyHalloween dont-miss font-medium text-[#ffe7b4] text-[6rem] leading-[9rem]">DO <br> N'T</h3>
+        </div>
+        <div class="flex justify-center items-center gap-1">
+          <div class="">
+            <div class="h-[110px] w-[128px] bg-[#FC9850] drop-shadow-[0_4px_3px_rgba(0,0,0,0.5)]"></div>
+            <div class="h-[110px] w-[128px] bg-gradient-to-tl from-[#FC9850] to-[#fbb07b]"></div>
+          </div>
+          <div class="">
+            <div class="h-[110px] w-[128px] bg-[#FC9850] drop-shadow-[0_4px_3px_rgba(0,0,0,0.5)]"></div>
+            <div class="h-[110px] w-[128px] bg-gradient-to-tl from-[#FC9850] to-[#fbb07b]"></div>
+          </div>
+        </div>
+        <div class="text-center flex justify-center items-center text-[10rem] text-[#ffe7b4] absolute left-[334px]">
+          <div class="seconds-puluhan"></div>
+        </div>
+        <div class="text-center flex justify-center items-center text-[10rem] text-[#ffe7b4] absolute right-[334px]">
+          <div class="seconds-satuan"></div>
+        </div>
+        <div class="text-center flex justify-center items-center w-80">
+          <h3 class="happyHalloween dont-miss font-medium text-[#ffe7b4] text-[6rem] leading-[9rem]">MISS <br> IT!</h3>
+        </div>
+      </div>
+      <div class="text-center flex justify-center items-center text-[2rem] text-[#D9D9D9] absolute top-[256px] left-[326px] tracking-[1rem]">
+        <p class="desc-seconds">SECONDS</p>
+      </div>
+    </div>
+  </section>
+
+  <script src="./script.js"></script>
 </body>
 </html>
