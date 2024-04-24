@@ -340,9 +340,9 @@
                     Powerful Benefits of Spookids!
                 </h1>
 
-                <div class="bg-5 border-0 rounded-2xl px-16 py-8 mt-16 mb-5 text-[#F3E9D3] w-[100%] md:w-[80%]">
+                <div class="bg-5 border-0 rounded-2xl px-3 md:px-16 py-8 mt-16 mb-5 text-[#F3E9D3] w-[100%] md:w-[80%]">
                     <div class="flex flex-col justify-center items-center text-center">
-                        <img src="img/Loading-amico.png" alt="" class="w-full md:w-[200px] mb-5">
+                        <img src="img/Loading-amico.png" alt="" class="w-[155px] md:w-[200px] mb-5">
                         <h3 class="halloween font-1-5rem mb-5">
                             Tap into the Power of Short-Form Video
                         </h3>
@@ -353,9 +353,9 @@
                 </div>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-2 gap-5 text-[#F3E9D3] w-[100%] md:w-[80%]">
-                    <div class="bg-5 border-0 rounded-2xl shadow-lg px-4 md:px-6 lg:px-8 py-5 w-full">
+                    <div class="bg-5 border-0 rounded-2xl shadow-lg px-3 md:px-6 lg:px-8 py-5 w-full">
                         <div class="flex justify-center items-center mb-5">
-                            <img src="img/Followers-amico.png" alt="" class="w-full md:w-[200px]">
+                            <img src="img/Followers-amico.png" alt="" class="w-[155px] md:w-[200px]">
                         </div>
                         <div class="flex flex-col justify-center text-center">
                             <h1 class="halloween font-1-5rem mb-5">
@@ -366,9 +366,9 @@
                             </h3>
                         </div>
                     </div>
-                    <div class="bg-5 border-0 rounded-2xl shadow-lg px-4 md:px-6 lg:px-8 py-5 w-full">
+                    <div class="bg-5 border-0 rounded-2xl shadow-lg px-3 md:px-6 lg:px-8 py-5 w-full">
                         <div class="flex justify-center items-center mb-5">
-                            <img src="img//Creative team-pana.png" alt="" class="w-full md:w-[200px]">
+                            <img src="img//Creative team-pana.png" alt="" class="w-[175px] md:w-[200px]">
                         </div>
                         <div class="flex flex-col justify-center text-center">
                             <h1 class="halloween font-1-5rem mb-5">
@@ -379,9 +379,9 @@
                             </h3>
                         </div>
                     </div>
-                    <div class="bg-5 border-0 rounded-2xl shadow-lg px-4 md:px-6 lg:px-8 py-5 w-full">
+                    <div class="bg-5 border-0 rounded-2xl shadow-lg px-3 md:px-6 lg:px-8 py-5 w-full">
                         <div class="flex justify-center items-center mb-5">
-                            <img src="img/Social tree-rafiki.png" alt="" class="w-full md:w-[200px]">
+                            <img src="img/Social tree-rafiki.png" alt="" class="w-[155px] md:w-[200px]">
                         </div>
                         <div class="flex flex-col justify-center text-center">
                             <h1 class="halloween font-1-5rem mb-5">
@@ -392,9 +392,9 @@
                             </h3>
                         </div>
                     </div>
-                    <div class="bg-5 border-0 rounded-2xl shadow-lg px-4 md:px-6 lg:px-8 py-5 w-full">
+                    <div class="bg-5 border-0 rounded-2xl shadow-lg px-3 md:px-6 lg:px-8 py-5 w-full">
                         <div class="flex justify-center items-center mb-5">
-                            <img src="img/Smiley face-bro.png" alt="" class="w-full md:w-[200px]">
+                            <img src="img/Smiley face-bro.png" alt="" class="w-[155px] md:w-[200px]">
                         </div>
                         <div class="flex flex-col justify-center text-center">
                             <h1 class="halloween font-1-5rem mb-5">
@@ -644,7 +644,7 @@
     </div>
 
     <div class="container-lg bg-1">
-        <div class="flex flex-col items-center justify-center text-[#F3E9D3] text-center py-16 px-5 md:px-0">
+        <div class="flex flex-col items-center justify-center text-[#F3E9D3] text-center py-16">
             <h1 class="halloween text-[#F3E9D3] text-center font-3rem w-full md:w-[70%] leading-tight mb-12">
                 Don't Wait Any Longer... <br>
                 Grab Full Access To <span class="text-[#FC9850]">"SPOOKIDS"</span> Now ! <br> With <span class="text-[#FC9850]">50% Discount</span>
@@ -733,7 +733,7 @@
                 </div>
             </div>
 
-            <h4 class="font-1-5rem montserrat-medium">
+            <h4 class="font-1-5rem montserrat-medium mt-12">
                 You Must HURRY..!!<br>
                 <span class="montserrat-regular">The 50% Discount only available for 5 Days During The Launch Event!</span> <br>
                 After 5 Days... Discount Will Be REMOVED!!
