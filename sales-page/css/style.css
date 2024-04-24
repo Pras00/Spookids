@@ -91,6 +91,10 @@
     .bg-data {
         background-size: cover;
     }
+
+    .bg-problem {
+        background-size: cover;
+    }
 }
 
 @media (min-width: 768px) {
@@ -130,6 +134,12 @@
 
     .bg-data {
         background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    .bg-problem {
+        background-size: contain;
+        background-repeat: no-repeat;
     }
 }
 
@@ -140,6 +150,64 @@
     background-size: cover;
 }
 
+.bg-2 {
+    background-color: #F3E9D3;
+    background-image: url(../img/bg-black.png);
+    background-size: cover;
+}
+
+.bg-3 {
+    background-color: #F3E9D3;
+    background-image: url(../img/bg-white.png);
+    background-size: cover;
+}
+
+.bg-4 {
+    background-color: #FC9850;
+    background-image: url(../img/bg-black2.png);
+    background-size: cover;
+}
+
+.bg-5 {
+    background-color: rgb(49, 46, 53);
+    background-image: url(../img/bg-white2.png);
+    background-size: cover;
+}
+
 .bg-data {
+    background-image: url(../img/card2.png);
+}
+
+.bg-card {
     background-image: url(../img/card.png);
+    background-size: contain;
+}
+
+.bg-problem {
+    background-image: url(../img/card3.png);
+}
+
+.bg-step-1 {
+    background-color: #F3E9D3;
+    background-image: url(../img/bg-step.png);
+    background-size: cover; 
+}
+
+.bg-step-2 {
+    background-color: #FC9850;
+    background-image: url(../img/bg-step2.png);
+    background-size: cover;
+}
+
+.cta:hover {
+    transform: scale(1.1); 
+}
+
+.cta {
+    transition: transform 0.3s ease;
+}
+
+.title-faq[open] summary {
+    background-color: #FC9850;
+    color: #F3E9D3;
 }

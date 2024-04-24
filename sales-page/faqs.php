@@ -1,32 +1,42 @@
 <?php
 $faqs = [
     [
-        "question" => "Q : What is Lead Plus+?",
-        "answer" => "<span class=text-[#352CE8]>Lead Plus+</span> is a cutting-edge digital product designed to revolutionize your lead generation efforts and amplify your business growth. This all-in-one solution combines a high-converting HTML landing page with exclusive business-focused eBooks, providing you with a comprehensive toolkit to capture valuable email databases and engage your target audience effectively."
+        "question" => "Q : What is Spookids ?",
+        "answer" => "<span class=text-[#FC9850]>Spookids</span> is a collection of short horror videos for kids, carefully curated to entertain and engage young viewers while sparking their imaginations. Our videos are designed to be both captivating and shareable, making them perfect for growing your social media following and connecting with a wider audience. Edit and Rebrand with Freedom (Pro Only): Unleash your creativity! SpookidsPro grants you a Private Label Rights (PLR) license, allowing you to edit, rebrand, and even create entirely new stories based on the videos."
     ],
     [
         "question" => "Q : Are there any more Upsells oro OTOs?",
         "answer" => "YES – After purchase the Main offer, you can Upgrade your purchase to the EXTENDED Pack. Where you can double your content with more different templates and different niches.PLUS… Upgraded into PLR License for Main product (FE) and the EXTENDED version."
     ],
     [
-        "question" => "Q : Is this a Software or What?",
-        "answer" => "This is a Web based<br><br>The core of Lead Plus+ is a dynamic HTML landing page and comes with a collection of expertly curated business eBooks (PDF)"
+        "question" => "Q : Who is Spookids perfect for",
+        "answer" => "Spookids is perfect for: <br><br>
+            Parents seeking engaging entertainment for their kids,
+            Educators and childcare providers looking for a captivating learning tool,
+            Content creators and influencers looking to grow their social media following.
+            "
     ],
     [
-        "question" => "Q : Are Fonts and Image Included in The Package?",
-        "answer" => "Absolutely YES..!! all pictures used in this design pack have a license that allow redistribution. So you can use it for your design or replace it with your own images."
+        "question" => "Q : How Does Spookids Help Grow My Audience?",
+        "answer" => "Spookids can be a powerful tool for growing your social media following on platforms like TikTok, Instagram, and YouTube Shorts. Here are some tips:<br><br>                                                                           
+            Post Spookids videos regularly to keep your audience engaged and coming back for more,
+            Use relevant hashtags to ensure your videos are seen by the right audience,
+            Engage with your followers by responding to comments and participating in discussions,
+            Collaborate with other horror niche content creators to expand your reach,
+            Promote your Spookids content on other social media platforms and websites.
+            "
     ],
     [
-        "question" => "Q : What Software Do I Need?",
-        "answer" => "All you need is software for coding such as Visual Studio Code (VS Code), IntelliJ IDEA, Eclipse, etc. "
+        "question" => "Q : Are Spookids safe for kids?",
+        "answer" => "Yes, Spookids are carefully curated to be appropriate for young viewers. Our videos are designed to be thrilling and suspenseful without being overly scary or graphic. We always prioritize the safety and well-being of our young audience."
     ],
     [
-        "question" => "Q : Can I Re-Sell The Templates?",
-        "answer" => "If you grab the Resell License… you are ALLOWED to resell the content to anyone, in any marketplace"
+        "question" => "Q : How can I get Spookids ?",
+        "answer" => "Spookids is available for purchase through our website and various online retailers. We also offer a subscription service that gives you unlimited access to our ever-growing library of videos."
     ],
     [
-        "question" => "Q : What’s The Product License we’ll get?",
-        "answer" => "in this main package you Get Resell Right License."
+        "question" => "Q : What if I have more questions?",
+        "answer" => "If you have any further questions about Spookids, please don't hesitate to contact us. We're always happy to help!"
     ],
     [
         "question" => "Q : Do You Offer Money Back Guarantee?",
