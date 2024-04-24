@@ -337,13 +337,13 @@
         <div class="bg-[#F3E9D3] container-lg">
             <div class="flex flex-col items-center justify-center text-center py-16 px-5 md:px-0">
                 <h1 class="halloween font-2-5rem text-[#312E35]">
-                     Powerful Benefits of Spookids! 
+                    Powerful Benefits of Spookids!
                 </h1>
 
-                <div class="bg-5 border-0 rounded-2xl p-4 md:p-6 lg:p-8 py-5 mt-16 mb-5 text-[#F3E9D3] w-[100%] md:w-[60%]">
+                <div class="bg-5 border-0 rounded-2xl px-16 py-8 mt-16 mb-5 text-[#F3E9D3] w-[100%] md:w-[80%]">
                     <div class="flex flex-col justify-center items-center text-center">
-                        <img src="img/Loading-amico.png" alt="" class="w-full md:w-[200px]">
-                        <h3 class="halloween font-1-5rem mb-4">
+                        <img src="img/Loading-amico.png" alt="" class="w-full md:w-[200px] mb-5">
+                        <h3 class="halloween font-1-5rem mb-5">
                             Tap into the Power of Short-Form Video
                         </h3>
                         <h3 class="montserrat-regular font-1rem">
@@ -352,55 +352,62 @@
                     </div>
                 </div>
 
-                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-2 gap-4 mb-16 text-[#F3E9D3] w-[100%] md:w-[80%]">
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-2 gap-5 text-[#F3E9D3] w-[100%] md:w-[80%]">
                     <div class="bg-5 border-0 rounded-2xl shadow-lg px-4 md:px-6 lg:px-8 py-5 w-full">
-                        <div class="flex justify-center items-center me-0 md:me-5">
-                            <img src="img/img-content2.png" alt="" class="w-full md:w-[1240px] h-auto md:h-full">
+                        <div class="flex justify-center items-center mb-5">
+                            <img src="img/Followers-amico.png" alt="" class="w-full md:w-[200px]">
                         </div>
-                        <div class="flex flex-col justify-center text-center md:text-start">
-                            <h1 class="inter-regular font-1-5rem mb-2">Reduced Conversion Rates</h1>
-                            <h3 class="inter-light font-1rem text-start">
+                        <div class="flex flex-col justify-center text-center">
+                            <h1 class="halloween font-1-5rem mb-5">
+                                Reduced Conversion Rates
+                            </h1>
+                            <h3 class="montserrat-regular font-1rem">
                                 Without lead magnet, businesses may find it challenging to convert website visitors into leads and eventually into customers. Offering a valuable lead magnet can significantly boost conversion rates by providing visitors with a reason to engage with the brand and share their contact information.
                             </h3>
                         </div>
                     </div>
-                    <div class="bg-5 border-0 rounded-2xl shadow-lg px-4 md:px-6 lg:px-8 py-5 w-full flex flex-col md:flex-row items-center justify-center md:justify-start">
-                        <div class="flex justify-center items-center me-0 md:me-5">
-                            <img src="img/img-content4.png" alt="" class="w-full md:w-[1240px] h-auto md:h-full">
+                    <div class="bg-5 border-0 rounded-2xl shadow-lg px-4 md:px-6 lg:px-8 py-5 w-full">
+                        <div class="flex justify-center items-center mb-5">
+                            <img src="img//Creative team-pana.png" alt="" class="w-full md:w-[200px]">
                         </div>
-                        <div class="flex flex-col justify-center text-center md:text-start">
-                            <h1 class="inter-regular font-1-5rem mb-2">Difficulty in Building Trust and Credibility</h1>
-                            <h3 class="inter-light font-1rem text-start">
-                                In today's competitive marketplace, consumers are becoming increasingly selective about the brands they engage with and trust. A high-quality lead magnet can help businesses establish themselves as industry experts and thought leaders, thereby building trust and credibility with their target audience.
+                        <div class="flex flex-col justify-center text-center">
+                            <h1 class="halloween font-1-5rem mb-5">
+                                Establish Yourself as a Content Creator in the Horror Niche
+                            </h1>
+                            <h3 class="montserrat-regular font-1rem">
+                                By consistently posting high-quality Spookids content, you'll establish yourself as a recognized and respected content creator in the horror niche. This reputation will attract even more followers and open up new opportunities for collaboration and growth.
                             </h3>
                         </div>
                     </div>
-                    <div class="bg-5 border-0 rounded-2xl shadow-lg px-4 md:px-6 lg:px-8 py-5 w-full flex flex-col md:flex-row items-center justify-center md:justify-start">
-                        <div class="flex justify-center items-center me-0 md:me-5 my-8 md:my-0">
-                            <img src="img/img-content3.png" alt="" class="w-full md:w-[940px] h-auto md:h-full">
+                    <div class="bg-5 border-0 rounded-2xl shadow-lg px-4 md:px-6 lg:px-8 py-5 w-full">
+                        <div class="flex justify-center items-center mb-5">
+                            <img src="img/Social tree-rafiki.png" alt="" class="w-full md:w-[200px]">
                         </div>
-                        <div class="flex flex-col justify-center text-center md:text-start">
-                            <h1 class="inter-regular font-1-5rem mb-2">Lack of Personalization and Targeting</h1>
-                            <h3 class="inter-light font-1rem text-start">
-                                Building an email database without a lead magnet often results in a generic and untargeted list of contacts. A well-designed lead magnet allows businesses to attract a specific audience segment interested in their products or services.
+                        <div class="flex flex-col justify-center text-center">
+                            <h1 class="halloween font-1-5rem mb-5">
+                                Boost Engagement and Build a Loyal Following
+                            </h1>
+                            <h3 class="montserrat-regular font-1rem">
+                                Spookids is not just about attracting new followers; it's about building a loyal and engaged community. Our videos will spark conversations, encourage interaction, and keep your audience coming back for more.
                             </h3>
                         </div>
                     </div>
-                    <div class="bg-5 border-0 rounded-2xl shadow-lg px-4 md:px-6 lg:px-8 py-5 w-full flex flex-col md:flex-row items-center justify-center md:justify-start">
-                        <div class="flex justify-center items-center me-0 md:me-5 mb-5 md:mb-0">
-                            <img src="img/img-content5.png" alt="" class="w-full md:w-[940px] h-auto md:h-full">
+                    <div class="bg-5 border-0 rounded-2xl shadow-lg px-4 md:px-6 lg:px-8 py-5 w-full">
+                        <div class="flex justify-center items-center mb-5">
+                            <img src="img/Smiley face-bro.png" alt="" class="w-full md:w-[200px]">
                         </div>
-                        <div class="flex flex-col justify-center text-center md:text-start">
-                            <h1 class="inter-regular font-1-5rem mb-2">Inefficient Marketing Spend</h1>
-                            <h3 class="inter-light font-1rem text-start">
-                                Without a lead magnet to capture email addresses and build a valuable database, businesses may find themselves spending more on acquiring new customers through other costly marketing channels.
+                        <div class="flex flex-col justify-center text-center">
+                            <h1 class="halloween font-1-5rem mb-5">
+                                Generate Excitement and Buzz
+                            </h1>
+                            <h3 class="montserrat-regular font-1rem">
+                                Spookids is guaranteed to generate excitement and buzz around your social media channels. The unique and thrilling nature of our short horror videos will have your audience hooked, eager to share your content with their friends and followers.
                             </h3>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
     </div>
 
     <div class="container-lg bg-1">
