@@ -45,3 +45,21 @@ const countdown = setInterval(function() {
     document.querySelector(".result-container").style.display = "flex";
   }
 }, 1000);
+
+var preview = document.getElementById('preview');
+var trailer = document.getElementById('trailer');
+    
+function closeModal() {
+    if (preview) {
+        preview.close();
+    }
+    if (trailer) {
+        trailer.close();
+    }
+}
+
+window.addEventListener('click', function(event) {
+    if (event.target == preview || event.target == trailer) {
+        closeModal();
+    }
+});

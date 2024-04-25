@@ -299,12 +299,100 @@
             </div>
         </div>
 
-        <div class="bg-[#F3E9D3] container-lg">
-            <div class="flex flex-col items-center justify-center text-center py-16 px-5 md:px-0">
+        <div class="bg-2 container-lg">
+            <div class="flex flex-row items-center justify-center py-16 px-5 md:px-0">
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-8 mx-3 md:mx-8 lg:mx-16 w-full">
+                    <?php
+                    include 'produk.php';
+
+                    for ($i = 0; $i < min(count($produk), 30); $i++) {
+                        $produk_data = $produk[$i];
+                    ?>
+                        <div class="bg-5 rounded-2xl flex flex-col justify-center items-center p-8 mb-8">
+                            <h1 class="bg-[#FC9850] rounded-full halloween font-1-5rem px-12 mb-5 text-[#312E35]"><?php echo $produk_data['title']; ?></h1>
+                            <p class="montserrat-regular font-1rem text-justify text-[#F3E9D3]"><?php echo $produk_data['paragraph']; ?></p>
+                            <div class="flex flex-row justify-center mt-5">
+                                <iframe width="225" height="400" src="<?php echo $produk_data['preview']; ?>" class="rounded-2xl me-3" allowfullscreen></iframe>
+                                <iframe width="225" height="400" src="<?php echo $produk_data['trailer']; ?>" class="rounded-2xl ms-3" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    <?php
+                    }
+                    ?>
+                </div>
             </div>
         </div>
 
-        <div class="bg-[#312E35] container-lg">
+        <!-- <div class="bg-2 container-lg">
+            <div class="flex flex-row items-center justify-center py-16 px-5 md:px-0">
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-2 gap-8 mx-3 md:mx-8 lg:mx-16 w-full">
+                    <div class="bg-5 rounded-2xl flex flex-col justify-center items-center p-8"> -->
+        <!-- <h1 class="bg-[#FC9850] rounded-full halloween font-2rem text-center px-12">
+                            Module #1
+                        </h1> -->
+
+        <!-- <img class="w-full md:w-[30%] my-5" src="img/img.png" alt=""> -->
+        <!-- <h1 class="bg-[#FC9850] rounded-full halloween font-1-5rem px-12 mb-5 text-[#312E35]">
+                            Title
+                        </h1>
+                        <p class="montserrat-regular font-1rem text-justify text-[#F3E9D3]">
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                        </p>
+                        <div class="flex flex-row justify-center my-5">
+                            <iframe width="250" height="400" src="https://www.youtube.com/embed/y6oMutwJQCw" class="me-3" allowfullscreen>
+                            </iframe>
+                            <iframe width="250" height="400" src="https://www.youtube.com/embed/y6oMutwJQCw" class="ms-3" allowfullscreen>
+                            </iframe>
+                        </div> -->
+        <!-- <div class="flex flex-row items-center justify-start">
+                            <button class="btn-preview" onclick="preview.showModal()">Preview</button>
+                            <button class="btn-preview" onclick="trailer.showModal()">Trailer</button>
+                        </div> -->
+        <!-- </div>
+                    <div class="bg-5 rounded-2xl flex flex-col justify-center items-center p-8"> -->
+        <!-- <h1 class="bg-[#FC9850] rounded-full halloween font-2rem text-center px-12">
+                            Module #2
+                        </h1> -->
+
+        <!-- <img class="w-full md:w-[30%] my-5" src="img/img.png" alt=""> -->
+        <!-- <h1 class="bg-[#FC9850] rounded-full halloween font-1-5rem text-[#312E35] px-12 mb-5">
+                            Title
+                        </h1>
+                        <p class="montserrat-regular font-1rem text-justify text-[#F3E9D3]">
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                        </p>
+                        <div class="flex flex-row justify-center my-5">
+                            <iframe width="250" height="400" src="https://www.youtube.com/embed/y6oMutwJQCw" class="me-3" allowfullscreen>
+                            </iframe>
+                            <iframe width="250" height="400" src="https://www.youtube.com/embed/y6oMutwJQCw" class="ms-3" allowfullscreen>
+                            </iframe>
+                        </div> -->
+        <!-- <div class="flex flex-row items-center justify-start">
+                            <button class="btn-preview" onclick="preview.showModal()">Preview</button>
+                            <button class="btn-preview" onclick="trailer.showModal()">Trailer</button>
+                        </div> -->
+        <!-- </div>
+                </div>
+            </div>
+        </div> -->
+
+        <!-- Modal Preview -->
+        <!-- <dialog id="preview" class="modal">
+            <div class="modal-box">
+                <iframe width="450" height="600" src="https://www.youtube.com/embed/WUq7a_Z4S9Y?modestbranding=1">
+                </iframe>
+            </div>
+        </dialog> -->
+
+        <!-- Modal Trailer -->
+        <!-- <dialog id="trailer" class="modal">
+            <div class="modal-box">
+                <iframe width="450" height="600" src="https://www.youtube.com/embed/WUq7a_Z4S9Y?modestbranding=1">
+                </iframe>
+            </div>
+        </dialog> -->
+
+        <div class="bg-5 container-lg">
             <div class="flex flex-col items-center justify-center text-center py-16 px-5 md:px-0">
                 <h1 class="halloween font-2-5rem text-[#FC9850]">
                     Unleash the Spooky Fun for Everyone!
