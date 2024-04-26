@@ -278,7 +278,6 @@
         </div>
 
         <div class="bg-[url('img/strip.png')] py-5 md:py-12" style="background-size: contain; background-repeat:no-repeat;">
-
         </div>
 
         <div class="bg-[#312E35] container-lg">
@@ -300,20 +299,20 @@
         </div>
 
         <div class="bg-2 container-lg">
-            <div class="flex flex-row items-center justify-center py-16 px-5 md:px-0">
-                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-8 mx-3 md:mx-8 lg:mx-16 w-full">
+            <div class="flex flex-row items-center justify-center py-8 md:py-16 px-5 md:px-16">
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-8">
                     <?php
                     include 'produk.php';
 
                     for ($i = 0; $i < min(count($produk), 30); $i++) {
                         $produk_data = $produk[$i];
                     ?>
-                        <div class="bg-5 rounded-2xl flex flex-col justify-center items-center p-8 mb-8">
+                        <div class="bg-5 rounded-2xl flex flex-col justify-center items-center p-5 md:p-8">
                             <h1 class="bg-[#FC9850] rounded-full halloween font-1-5rem px-12 mb-5 text-[#312E35]"><?php echo $produk_data['title']; ?></h1>
                             <p class="montserrat-regular font-1rem text-justify text-[#F3E9D3]"><?php echo $produk_data['paragraph']; ?></p>
-                            <div class="flex flex-row justify-center mt-5">
-                                <iframe width="225" height="400" src="<?php echo $produk_data['preview']; ?>" class="rounded-2xl me-3" allowfullscreen></iframe>
-                                <iframe width="225" height="400" src="<?php echo $produk_data['trailer']; ?>" class="rounded-2xl ms-3" allowfullscreen></iframe>
+                            <div class="flex flex-row justify-center items-center mt-5">
+                                <iframe src="<?php echo $produk_data['preview']; ?>" class="w-[50%] md:w-[40%] h-80 md:h-96 rounded-2xl me-2 md:me-3" allowfullscreen></iframe>
+                                <iframe src="<?php echo $produk_data['trailer']; ?>" class="w-[50%] md:w-[40%] h-80 md:h-96 rounded-2xl ms-2 md:ms-3" allowfullscreen></iframe>
                             </div>
                         </div>
                     <?php

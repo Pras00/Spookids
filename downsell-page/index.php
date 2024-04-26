@@ -12,23 +12,27 @@
 </head>
 
 <body>
-    <div class="container-lg bg-6">
+    <div class="container-lg bg-2">
         <div class="flex flex-col items-center justify-center h-screen px-5">
-            <div class="border-0 bg-[#FC9850] rounded-2xl px-4 md:px-6 lg:px-8 py-5 w-full md:w-[40%] h-[60%] md:h-[90%] flex flex-col items-center justify-center text-center text-[#312E35]">
-                <div class="flex flex-row items-center justify-center">
-                    <h3 class="halloween font-2rem">
-                        YOUR PURCHASE SUCCESS!
-                    </h3>
+            <div class="border-0 bg-5 drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 w-full md:w-[80%] h-[70%] md:h-[70%] flex flex-col items-center justify-center text-center md:text-start">
+                <div class="flex flex-col md:flex-row items-center justify-center">
+                    <img class="w-[65%] md:w-[30%] mr-0 md:mr-8 mb-5 md:mb-0" src="img/waiting.gif" alt="">
+                    <div class="text-[#F3E9D3]">
+                        <h3 class="halloween font-2-5rem mb-5">
+                            Wait! One last Change..
+                        </h3>
+                        <h5 class="montserrat-regular font-1-2rem">
+                            After this, You Won't See this Offer Again. So Read Every Word and Decide on this Page Carefully! <br><br>
+                            Make sure to read every word carefully as this offer for Spookids won't be available again after this.
+                        </h5>
+                    </div>
                 </div>
 
-                <img class="w-full md:w-[80%]" src="img/Halloween tickets.gif" alt="">
-
-                <h5 class="montserrat-medium font-1rem">
-                    Continue your purchase by scrolling down
-                    to review the products you've selected.
-                </h5>
-                <img class="w-[10%] md:w-[8%] mt-3" src="img/arrow.png" alt="">
+                <div class="flex items-center justify-center">
+                    <img class="w-[15%] md:w-[20%] mr-3" src="img/arrow2.png" alt="">
+                </div>
             </div>
+
         </div>
     </div>
 
@@ -38,7 +42,7 @@
                 Unleash the Power of Spookids Pro: <br> Exclusive Content & PLR License
             </h1>
             <h3 class="montserrat-regular font-1-5rem my-12 w-full md:w-[80%]">
-                While your current Spookids license allows you to use the videos, upgrade to Spookids Pro and unlock the power of a Private Label Rights (PLR) License!
+                While your current Spookids license allows you to use the videos, upgrade to Spookids Pro and unlock the power of a Private Label Rights (PLR) license!
             </h3>
 
             <img class="w-[100%] md:w-[50%]" src="https://placehold.co/100x100" alt="">
