@@ -190,7 +190,7 @@
 .bg-step-1 {
     background-color: #F3E9D3;
     background-image: url(../img/bg-step.png);
-    background-size: cover; 
+    background-size: cover;
 }
 
 .bg-step-2 {
@@ -200,7 +200,7 @@
 }
 
 .cta:hover {
-    transform: scale(1.1); 
+    transform: scale(1.1);
 }
 
 .cta {
@@ -209,19 +209,20 @@
 
 .title-faq[open] summary {
     background-color: #FC9850;
-    color: #F3E9D3;
-}
-
-.btn-preview {
-    margin: 8px;
-    padding: 5px 18px 5px 18px;
-    font-family: halloween;
-    background-color: #F3E9D3;
     color: #312E35;
-    border-radius: 20px;
 }
 
-.btn-preview:hover {
+.title-faq[open] summary svg {
     background-color: #FC9850;
     color: #312E35;
+}
+
+.gerigi {
+    background-image: 
+        linear-gradient(to right, transparent 50%, #000 50%),
+        linear-gradient(to right, #000 50%, transparent 50%);
+    background-size: 20px 2px; /* Sesuaikan lebar dan tinggi gerigi di sini */
+    background-position: 0 0, 0 100%; /* Atur posisi gradient untuk membuat efek gerigi di atas dan bawah */
+    background-repeat: repeat-x; /* Ulangi gradient secara horizontal */
+    padding: 20px; /* Sesuaikan sesuai kebutuhan */
 }

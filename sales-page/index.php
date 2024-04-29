@@ -33,54 +33,54 @@
 
             <img class="p-5 w-[100%] md:w-[50%]" src="https://placehold.co/100x100" alt="">
 
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-3 gap-5 my-16 mx-4 md:mx-8 lg:mx-16 montserrat-semibold text-start text-black">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-3 gap-5 my-16 px-5 md:px-0 w-[100%] md:w-[80%] text-start text-[#312E35]">
                 <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-full flex items-center justify-self-end">
-                    <div class="order-first me-3">
-                        <img class="w-[70%]" src="img/icon-lm1.png" alt="">
+                    <div class="flex flex-row items-center justify-start">
+                        <img class=" w-[10%] md:w-[10%] me-5" src="img/icon.png" alt="">
+                        <h3 class="font-1-5rem halloween">
+                            Over 30+ Spooky Tales to Choose From
+                        </h3>
                     </div>
-                    <h3 class="font-1-2rem">
-                        Easy-to-Use Landing Page (HTML)
-                    </h3>
                 </div>
                 <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-full flex items-center justify-start">
-                    <div class="order-first me-3">
-                        <img class="w-[70%]" src="img/icon-lm3.png" alt="">
+                    <div class="flex flex-row items-center justify-start">
+                        <img class=" w-[10%] md:w-[10%] me-5" src="img/icon.png" alt="">
+                        <h3 class="font-1-5rem halloween">
+                            Downloadable Resources Section
+                        </h3>
                     </div>
-                    <h3 class="font-1-2rem">
-                        Downloadable Resources Section
-                    </h3>
                 </div>
                 <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-full flex items-center justify-self-end">
-                    <div class="order-first me-3">
-                        <img class="w-[70%]" src="img/icon-lm2.png" alt="">
+                    <div class="flex flex-row items-center justify-start">
+                        <img class=" w-[10%] md:w-[10%] me-5" src="img/icon.png" alt="">
+                        <h3 class="font-1-5rem halloween">
+                            Shareable Content for Social Media
+                        </h3>
                     </div>
-                    <h3 class="font-1-2rem">
-                        Advanced Lead Capture Forms
-                    </h3>
                 </div>
                 <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-full flex items-center justify-start">
-                    <div class="order-first me-3">
-                        <img class="w-[70%]" src="img/icon-lm5.png" alt="">
+                    <div class="flex flex-row items-center justify-start">
+                        <img class=" w-[10%] md:w-[10%] me-5" src="img/icon.png" alt="">
+                        <h3 class="font-1-5rem halloween">
+                            High-Quality Visuals
+                        </h3>
                     </div>
-                    <h3 class="font-1-2rem">
-                        Mobile-Responsive Design
-                    </h3>
                 </div>
                 <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-full flex items-center justify-self-end">
-                    <div class="order-first me-3">
-                        <img class="w-[70%]" src="img/icon-lm4.png" alt="">
+                    <div class="flex flex-row items-center justify-start">
+                        <img class=" w-[10%] md:w-[10%] me-5" src="img/icon.png" alt="">
+                        <h3 class="font-1-5rem halloween">
+                            High-Quality Sound Effects
+                        </h3>
                     </div>
-                    <h3 class="font-1-2rem">
-                        High-Quality E-book & Cover Content
-                    </h3>
                 </div>
                 <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-full flex items-center justify-start">
-                    <div class="order-first me-3">
-                        <img class="w-[70%]" src="img/icon-lm6.png" alt="">
+                    <div class="flex flex-row items-center justify-start">
+                        <img class=" w-[10%] md:w-[10%] me-5" src="img/icon.png" alt="">
+                        <h3 class="font-1-5rem halloween">
+                            Re-Seller Right License
+                        </h3>
                     </div>
-                    <h3 class="font-1-2rem">
-                        Interesting Website Content
-                    </h3>
                 </div>
             </div>
         </div>
@@ -103,13 +103,18 @@
             </a>
         </div>
     </div>
+
+    <div class="gerigi">
+        
+    </div>
+    
     <div class="bg-2 container-lg">
         <div class="flex flex-col items-center justify-center text-center">
             <h1 class="halloween font-2-5rem mt-16 text-[#312E35] leading-none w-full md:w-[60%]">
                 Beyond the Scroll: Data Reveals the Power of Short-Form Horror for Kids
             </h1>
 
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-2 gap-10 my-16 mx-3 md:mx-8 lg:mx-16 montserrat-bold text-start text-black">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-2 gap-5 my-16 px-3 md:px-0 md:gap-8 w-full md:w-[90%] text-[#312E35]">
                 <div class="bg-data p-8 md:p-12 text-center text-[#F3E9D3]">
                     <h3 class="halloween font-1-5rem mb-5">
                         Short-Form Video Dominance
@@ -217,7 +222,7 @@
 
     <div class="bg-[#312E35] container-lg">
         <div class="flex flex-col items-center justify-center text-center py-8 md:py-16 px-5 md:px-0">
-            <h1 class="halloween font-bold font-2-5rem text-[#F3E9D3] w-full md:w-[60%] mb-16 pt-8 mb:pt-0">
+            <h1 class="halloween font-2-5rem text-[#F3E9D3] w-full md:w-[60%] mb-16 pt-8 mb:pt-0">
                 Spookids Unveils Your Gateway to Captivating Short-Form Horror for Kids!
             </h1>
 
@@ -232,7 +237,7 @@
                         </p>
                     </div>
                     <div class="md:w-1/3 order-1 md:order-2 mb-5 md:mb-0 flex justify-center">
-                        <img class="w-[60%] md:w-[70%]" src="img/sm.png" alt="">
+                        <img class="w-[60%] md:w-[70%]" src="img/Halloween tickets-amico.png" alt="">
                     </div>
                 </div>
                 <div class="bg-4 rounded-lg p-5 md:p-8 text-center text-[#312E35] flex flex-col md:flex-row items-center mb-8">
@@ -258,26 +263,48 @@
                         </p>
                     </div>
                     <div class="md:w-1/3 order-1 md:order-2 mb-5 md:mb-0 flex justify-center">
-                        <img class="w-[60%] md:w-[70%]" src="img/sm.png" alt="">
+                        <img class="w-[60%] md:w-[70%]" src="img/Product quality-bro.png" alt="">
                     </div>
                 </div>
                 <div class="bg-4 rounded-lg p-5 md:p-8 text-center text-[#312E35] flex flex-col md:flex-row items-center mb-8">
                     <div class="md:w-2/3 order-2 md:order-2 md:mr-16 flex flex-col items-center">
                         <h3 class="bg-[#312E35] text-[#F3E9D3] rounded-full py-1  halloween font-1-2rem mb-5 px-8">
-                            Engaging and Shareable Content for Social Media Growth
+                            Re-Seller Right License
                         </h3>
                         <p class="montserrat-medium font-1rem">
-                            This version is shorter and uses stronger verbs like "Grow" and "Love" to create a more impactful message. It also mentions "Spookids" to reinforce brand awareness.
+                            With our Reseller Rights license, you'll gain the opportunity to build a profitable business while bringing joy and entertainment to kids worldwide.
                         </p>
                     </div>
                     <div class="md:w-1/3 order-1 md:order-1 mb-5 md:mb-0 flex justify-center">
-                        <img class="w-[60%] md:w-[70%]" src="img/sm.png" alt="">
+                        <img class="w-[60%] md:w-[70%]" src="img/Select-bro.png" alt="">
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="bg-[url('img/strip.png')] py-5 md:py-12" style="background-size: contain; background-repeat:no-repeat;">
+        <div class="bg-[#FC9850] py-1">
+            <div class="flex flex-row">
+                <div class="flex flex-row items-center justify-center me-5 md:me-0">
+                    <img class="w-[15%] md:w-[10%] me-1 md:me-3" src="img/icon.png" alt="">
+                    <h1 class="halloween font-2-5rem text-[#312E35]">SPOOKIDS!</h1>
+                </div>
+                <div class="flex flex-row items-center justify-center me-5 md:me-0">
+                    <img class="w-[15%] md:w-[10%] me-1 md:me-3" src="img/icon.png" alt="">
+                    <h1 class="halloween font-2-5rem text-[#312E35]">SPOOKIDS!</h1>
+                </div>
+                <div class="hidden md:flex flex-row items-center justify-center me-5 md:me-0">
+                    <img class="w-[15%] md:w-[10%] me-1 md:me-3" src="img/icon.png" alt="">
+                    <h1 class="halloween font-2-5rem text-[#312E35]">SPOOKIDS!</h1>
+                </div>
+                <div class="hidden md:flex flex-row items-center justify-center me-5 md:me-0">
+                    <img class="w-[15%] md:w-[10%] me-1 md:me-3" src="img/icon.png" alt="">
+                    <h1 class="halloween font-2-5rem text-[#312E35]">SPOOKIDS!</h1>
+                </div>
+                <div class="hidden md:flex flex-row items-center justify-center me-5 md:me-0">
+                    <img class="w-[15%] md:w-[10%] me-1 md:me-3" src="img/icon.png" alt="">
+                    <h1 class="halloween font-2-5rem text-[#312E35]">SPOOKIDS!</h1>
+                </div>
+            </div>
         </div>
 
         <div class="bg-[#312E35] container-lg">
@@ -400,19 +427,19 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 grid-rows-1 gap-8 mt-12 mx-3 md:mx-8 lg:mx-16 montserrat-bold text-start text-black">
                     <div class="bg-transparent p-5 md:p-8 text-center text-[#F3E9D3] flex flex-col items-center">
                         <img class="w-[60%] md:w-[70%] mb-8" src="img/Content creator-rafiki.png" alt="">
-                        <p class="montserrat-medium font-1rem">
+                        <p class="montserrat-medium font-1-2rem">
                              Content Creators and Influencers Seeking to Grow Their Social Media Following
                         </p>
                     </div>
                     <div class="bg-transparent p-5 md:p-8 text-center text-[#F3E9D3] flex flex-col items-center">
                         <img class="w-[60%] md:w-[70%] mb-8" src="img/Parents-amico.png" alt="">
-                        <p class="montserrat-medium font-1rem">
+                        <p class="montserrat-medium font-1-2rem">
                             Parents Seeking Engaging Entertainment for Their Kids
                         </p>
                     </div>
                     <div class="bg-transparent p-5 md:p-8 text-center text-[#F3E9D3] flex flex-col items-center">
                         <img class="w-[60%] md:w-[70%] mb-8" src="img/Webinar-bro.png" alt="">
-                        <p class="montserrat-medium font-1rem">
+                        <p class="montserrat-medium font-1-2rem">
                             Educators and Childcare Providers Looking for Captivating Learning Tools
                         </p>
                     </div>
@@ -829,7 +856,7 @@
         </div>
     </div>
 
-    <div class="container-lg bg-2">
+    <div class="container-lg bg-[#F3E9D3]">
         <div class="flex flex-col items-center justify-center text-center py-16">
             <h1 class="halloween font-3rem text-[#312E35] leading-none">
                 F.A.Q <br>
@@ -846,29 +873,29 @@
             $firstHalf = array_slice($faqs, 0, $halfCount);
             $secondHalf = array_slice($faqs, $halfCount);
             ?>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 mt-16 mx-4 md:mx-8 lg:mx-16">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 mt-16 w-[90%] md:w-[80%]">
 
                 <?php foreach ($firstHalf as $faq) : ?>
-                    <details class="group py-1 text-lg title-faq montserrat-regular">
-                        <summary class="flex cursor-pointer flex-row items-center justify-between py-1 font-semibold text-[#FC9850] bg-[#312E35] p-8 py-3 rounded-2xl">
+                    <details class="group py-1 font-1rem title-faq montserrat-semibold">
+                        <summary class="flex cursor-pointer flex-row items-center justify-between text-[#FC9850] bg-[#312E35] rounded-t-2xl px-8 py-3">
                             <?php echo $faq["question"]; ?>
                             <svg class="h-6 w-6 rotate-0 transform text-[#FC9850] group-open:rotate-180" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
                                 <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"></path>
                             </svg>
                         </summary>
-                        <p class="rounded-b-lg bg-white text-[#312E35] p-5 font-1rem"><?php echo $faq["answer"]; ?></p>
+                        <p class="rounded-b-2xl bg-[#312E35] text-[#F3E9D3] p-5 font-1rem text-justify montserrat-regular"><?php echo $faq["answer"]; ?></p>
                     </details>
                 <?php endforeach; ?>
 
                 <?php foreach ($secondHalf as $faq) : ?>
-                    <details class="group py-1 text-lg title-faq montserrat-regular">
-                        <summary class="flex cursor-pointer flex-row items-center justify-between py-1 font-semibold text-[#FC9850] bg-[#312E35] p-8 py-3 rounded-2xl">
+                    <details class="group py-1 font-1rem title-faq montserrat-semibold">
+                        <summary class="flex cursor-pointer flex-row items-center justify-between text-[#FC9850] bg-[#312E35] rounded-t-2xl px-8 py-3">
                             <?php echo $faq["question"]; ?>
                             <svg class="h-6 w-6 rotate-0 transform text-[#FC9850] group-open:rotate-180" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
                                 <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"></path>
                             </svg>
                         </summary>
-                        <p class="rounded-2xl bg-white text-[#312E35] p-5 font-1rem"><?php echo $faq["answer"]; ?></p>
+                        <p class="rounded-b-2xl bg-[#312E35] text-[#F3E9D3] p-5 font-1rem text-justify montserrat-regular"><?php echo $faq["answer"]; ?></p>
                     </details>
                 <?php endforeach; ?>
 

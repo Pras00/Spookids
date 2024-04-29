@@ -41,9 +41,9 @@ $faqs = [
     [
         "question" => "Q : Do You Offer Money Back Guarantee?",
         "answer" => "
-                    You should pay attention to our requirements,<span class=text-[#352CE8]> we DO the refund if there is an issue with the product and our technical support can’t solve it for you.</span> And we’ll provide a refund for you within 30 days of your purchase. <br><br>
+                    You should pay attention to our requirements,<span class=text-[#FC9850]> we DO the refund if there is an issue with the product and our technical support can’t solve it for you.</span> And we’ll provide a refund for you within 30 days of your purchase. <br><br>
                     “I don’t like the product..” – “this is not for me…” – I don’t have the software to edit…” – that kind of reasons is Un-Acceptable to claim the Money Back Guarantee. Because we already mentioned and show you clearly in the sales page about the product and it’s content. <br><br>
-                    <span class=text-[#FF0000]>*REFUND PROCESS :DO NOT open dispute claim via Paypal – we use Warriorplus/JVZoo Platform to handle payment, so all refund must be processing by platform as their Business Policy. So please send your query to </span> 
+                    <span class=text-[#FC9850]>*REFUND PROCESS :DO NOT open dispute claim via Paypal – we use Warriorplus/JVZoo Platform to handle payment, so all refund must be processing by platform as their Business Policy. So please send your query to </span> 
                     wsomarket@gmail.com,<br><br>
                     *PRODUCT USAGE POST-REFUND: By receiving a refund, you agree to remove all files downloaded from our website, and all rights to use the product will be revoked. We reserve the right to decline a refund if the client does not adhere to these conditions."
     ]

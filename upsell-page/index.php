@@ -61,7 +61,7 @@
                         </p>
                     </div>
                     <div class="md:w-1/3 order-1 md:order-2 mb-5 md:mb-0 flex justify-center">
-                        <img class="w-[60%] md:w-[70%]" src="img/sm.png" alt="">
+                        <img class="w-[60%] md:w-[70%]" src="img/Halloween tickets-amico.png" alt="">
                     </div>
                 </div>
                 <div class="bg-4 rounded-lg p-5 md:p-8 text-center text-[#312E35] flex flex-col md:flex-row items-center mb-8">
@@ -87,20 +87,20 @@
                         </p>
                     </div>
                     <div class="md:w-1/3 order-1 md:order-2 mb-5 md:mb-0 flex justify-center">
-                        <img class="w-[60%] md:w-[70%]" src="img/sm.png" alt="">
+                        <img class="w-[60%] md:w-[70%]" src="img/Product quality-bro.png" alt="">
                     </div>
                 </div>
                 <div class="bg-4 rounded-lg p-5 md:p-8 text-center text-[#312E35] flex flex-col md:flex-row items-center mb-8">
                     <div class="md:w-2/3 order-2 md:order-2 md:mr-16 flex flex-col items-center">
                         <h3 class="bg-[#312E35] text-[#F3E9D3] rounded-full py-1  halloween font-1-2rem mb-5 px-8">
-                            Engaging and Shareable Content for Social Media Growth
+                            Re-Seller Right License
                         </h3>
                         <p class="montserrat-medium font-1rem">
-                            This version is shorter and uses stronger verbs like "Grow" and "Love" to create a more impactful message. It also mentions "Spookids" to reinforce brand awareness.
+                            With our Reseller Rights license, you'll gain the opportunity to build a profitable business while bringing joy and entertainment to kids worldwide.
                         </p>
                     </div>
                     <div class="md:w-1/3 order-1 md:order-1 mb-5 md:mb-0 flex justify-center">
-                        <img class="w-[60%] md:w-[70%]" src="img/sm.png" alt="">
+                        <img class="w-[60%] md:w-[70%]" src="img/Select-bro.png" alt="">
                     </div>
                 </div>
             </div>
@@ -326,8 +326,32 @@
         </div>
 
         <div class="bg-[#312E35] container-lg">
-            <div class="bg-[url('img/strip.png')] py-5 md:py-12" style="background-size: contain; background-repeat:no-repeat;">
+
+            <div class="bg-[#FC9850] py-1">
+                <div class="flex flex-row">
+                    <div class="flex flex-row items-center justify-center me-5 md:me-0">
+                        <img class="w-[15%] md:w-[10%] me-1 md:me-3" src="img/icon.png" alt="">
+                        <h1 class="halloween font-2-5rem text-[#312E35]">SPOOKIDS!</h1>
+                    </div>
+                    <div class="flex flex-row items-center justify-center me-5 md:me-0">
+                        <img class="w-[15%] md:w-[10%] me-1 md:me-3" src="img/icon.png" alt="">
+                        <h1 class="halloween font-2-5rem text-[#312E35]">SPOOKIDS!</h1>
+                    </div>
+                    <div class="hidden md:flex flex-row items-center justify-center me-5 md:me-0">
+                        <img class="w-[15%] md:w-[10%] me-1 md:me-3" src="img/icon.png" alt="">
+                        <h1 class="halloween font-2-5rem text-[#312E35]">SPOOKIDS!</h1>
+                    </div>
+                    <div class="hidden md:flex flex-row items-center justify-center me-5 md:me-0">
+                        <img class="w-[15%] md:w-[10%] me-1 md:me-3" src="img/icon.png" alt="">
+                        <h1 class="halloween font-2-5rem text-[#312E35]">SPOOKIDS!</h1>
+                    </div>
+                    <div class="hidden md:flex flex-row items-center justify-center me-5 md:me-0">
+                        <img class="w-[15%] md:w-[10%] me-1 md:me-3" src="img/icon.png" alt="">
+                        <h1 class="halloween font-2-5rem text-[#312E35]">SPOOKIDS!</h1>
+                    </div>
+                </div>
             </div>
+            
             <div class="flex flex-col items-center justify-center text-center py-8 md:py-12 px-3 md:px-0">
                 <div class="w-full md:w-[80%] flex flex-col justify-center items-center">
                     <h3 class="bg-[#F3E9D3] text-[#312E35] rounded-full py-2 montserrat-bold font-1-2rem w-full md:w-[40%]">
@@ -335,7 +359,7 @@
                     </h3>
 
                     <h1 class="halloween font-2-5rem leading-tight my-8 text-[#FC9850] px-8 md:px-0">
-                        Explore Our Every Spooktacular Story
+                        Explore Our Every Exclusive Spooktacular Story
                     </h1>
 
                 </div>
