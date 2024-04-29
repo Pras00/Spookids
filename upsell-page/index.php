@@ -24,8 +24,7 @@
                 <img class="w-full md:w-[80%]" src="img/Halloween tickets.gif" alt="">
 
                 <h5 class="montserrat-medium font-1rem">
-                    Continue your purchase by scrolling down
-                    to review the products you've selected.
+                    Continue Your Purchase By Scrolling Down To Review The Products You've Selected.
                 </h5>
                 <img class="w-[10%] md:w-[8%] mt-3" src="img/arrow.png" alt="">
             </div>
@@ -38,7 +37,7 @@
                 Unleash the Power of Spookids Pro: <br> Exclusive Content & PLR License
             </h1>
             <h3 class="montserrat-regular font-1-5rem my-12 w-full md:w-[80%]">
-                While your current Spookids license allows you to use the videos, upgrade to Spookids Pro and unlock the power of a Private Label Rights (PLR) License!
+                While Your Current Spookids License Allows You To Use The Videos, Upgrade To Spookids Pro And Unlock The Power Of A Private Label Rights (PLR) License!
             </h3>
 
             <img class="w-[100%] md:w-[50%]" src="https://placehold.co/100x100" alt="">
@@ -47,7 +46,7 @@
                 Unlock Endless Spooky Fun & Maximize Profits with the Spookids Pro PLR License!
             </h3>
             <h4 class="montserrat-regular font-1-5rem w-full md:w-[80%] mb-16">
-                Are you ready to captivate audiences and grow your business with Spookids? Take your content creation and reselling to the next level with our exclusive Private Label Rights (PLR) License included in Spookids Pro.
+                Are You Ready To Captivate Audiences And Grow Your Business With Spookids? Take Your Content Creation And Reselling To The Next Level With Our Exclusive Private Label Rights (PLR) License Included In Spookids Pro.
             </h4>
 
             <div class="flex flex-col items-center justify-center text-center w-full md:w-[80%]">
@@ -111,7 +110,7 @@
     <div class="container-lg bg-6">
         <div class="flex flex-col items-center justify-center text-center p-3 py-16">
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-8 mx-0 md:mx-8 lg:mx-24 p-3 text-white">
-                <div class="border-0 bg-2 drop-shadow-lg rounded-2xl h-full md:h-[70%]">
+                <div class="border-0 bg-[#F3E9D3] drop-shadow-lg rounded-2xl h-full md:h-[60%]">
                     <h1 class="bg-[#312E35] halloween font-2rem mt-8 text-[#F3E9D3]">
                         YOUR CURRENT PACKAGE
                     </h1>
@@ -161,12 +160,12 @@
                         </div>
                     </div>
                 </div>
-                <div class="border-0 bg-2 drop-shadow-lg rounded-2xl">
+                <div class="border-0 bg-[#F3E9D3] drop-shadow-lg rounded-2xl">
                     <h1 class="bg-[#FC9850] halloween font-2rem mt-8 text-[#312E35]">
                         NEW EXTENDED PACKAGE
                     </h1>
 
-                    <div class="p-3 md:p-8 text-black">
+                    <div class="p-3 md:p-8 text-[#312E35]">
                         <div class="flex flex-row items-center justify-start mb-3">
                             <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
                             <h3 class="font-0-8rem montserrat-medium ms-3">
@@ -273,7 +272,7 @@
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-2 gap-5 w-full md:w-[80%]">
                 <div class="border-4 border-[#FC9850] bg-[#312E35] rounded-2xl">
-                    <div class="flex flex-col justify-center text-center p-8 text-[#FC9850]">
+                    <div class="flex flex-col justify-center text-center p-8 text-[#F3E9D3]">
                         <h1 class="bg-[#F3E9D3] rounded-full text-[#312E35] halloween font-1-5rem mb-5">
                             Double the Spooktacular Content
                         </h1>
@@ -283,7 +282,7 @@
                     </div>
                 </div>
                 <div class="border-4 border-[#FC9850] bg-[#312E35] rounded-2xl">
-                    <div class="flex flex-col justify-center text-center p-8 text-[#FC9850]">
+                    <div class="flex flex-col justify-center text-center p-8 text-[#F3E9D3]">
                         <h1 class="bg-[#F3E9D3] rounded-full text-[#312E35] halloween font-1-5rem mb-5">
                             Captivating Teasers
                         </h1>
@@ -293,7 +292,7 @@
                     </div>
                 </div>
                 <div class="border-4 border-[#FC9850] bg-[#312E35] rounded-2xl">
-                    <div class="flex flex-col justify-center text-center p-8 text-[#FC9850]">
+                    <div class="flex flex-col justify-center text-center p-8 text-[#F3E9D3]">
                         <h1 class="bg-[#F3E9D3] rounded-full text-[#312E35] halloween font-1-5rem mb-5">
                             Own Your Content & Resell for Profits
                         </h1>
@@ -303,7 +302,7 @@
                     </div>
                 </div>
                 <div class="border-4 border-[#FC9850] bg-[#312E35] rounded-2xl">
-                    <div class="flex flex-col justify-center text-center p-8 text-[#FC9850]">
+                    <div class="flex flex-col justify-center text-center p-8 text-[#F3E9D3]">
                         <h1 class="bg-[#F3E9D3] rounded-full text-[#312E35] halloween font-1-5rem mb-5">
                             Effortless Marketing Tools
                         </h1>
@@ -314,12 +313,12 @@
                 </div>
             </div>
             <div class="border-4 border-[#FC9850] bg-[#312E35] rounded-2xl mt-5 w-full md:w-[40%]">
-                <div class="flex flex-col justify-center text-center p-8 text-[#FC9850]">
+                <div class="flex flex-col justify-center text-center p-8 text-[#F3E9D3]">
                     <h1 class="bg-[#F3E9D3] rounded-full text-[#312E35] halloween font-1-5rem mb-5">
-                        Effortless Marketing Tools
+                        Ready-Made Email Swipes
                     </h1>
                     <h3 class="montserrat-regular font-1rem text-justify">
-                        Save time and resources with a professional Sales Page Bundle and a Mockup Bundle pre-designed to showcase your Spookids.
+                        Craft high-converting email campaigns in a snap with a collection of pre-written email swipes promoting your Spookids content.
                     </h3>
                 </div>
             </div>
@@ -351,7 +350,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <div class="flex flex-col items-center justify-center text-center py-8 md:py-12 px-3 md:px-0">
                 <div class="w-full md:w-[80%] flex flex-col justify-center items-center">
                     <h3 class="bg-[#F3E9D3] text-[#312E35] rounded-full py-2 montserrat-bold font-1-2rem w-full md:w-[40%]">
@@ -402,7 +401,7 @@
                     </h5>
 
                     <p class="montserrat-regular font-1-5rem mt-8">
-                        You get more Spooktacular Story and able to Re-Sell under your own brand
+                        You Get More Spooktacular Story and Able to Re-Sell Under Your Own Brand
                     </p>
 
                     <!-- <img class="w-[100%] md:w-[55%] my-8" src="img/limited.png" alt=""> -->
@@ -414,8 +413,8 @@
 
                     <div class="m-16"></div>
 
-                    <div class="border-0 bg-[#E82C2C] rounded-lg p-3 w-full md:w-[70%] flex flex-col items-center justify-center text-center montserrat-regular text-[#F3E9D3]">
-                        No thanks - I don’t Want Add this Huge bundle Products In My Account Library. If I upgrade later, I understand that I have to pay full price...
+                    <div class="border-0 bg-[#E82C2C] rounded-lg p-3 w-full md:w-[85%] flex flex-col items-center justify-center text-center montserrat-regular text-[#F3E9D3]">
+                        No Thanks - I Don’t Want Add This Huge Bundle Products In My Account Library. If I Upgrade Later, I Understand That I Have To Pay Full Price...
                     </div>
                 </div>
             </div>

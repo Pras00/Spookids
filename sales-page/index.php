@@ -34,7 +34,7 @@
             <img class="p-5 w-[100%] md:w-[50%]" src="https://placehold.co/100x100" alt="">
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-3 gap-5 my-16 px-5 md:px-0 w-[100%] md:w-[80%] text-start text-[#312E35]">
-                <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-full flex items-center justify-self-end">
+                <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-full">
                     <div class="flex flex-row items-center justify-start">
                         <img class=" w-[10%] md:w-[10%] me-5" src="img/icon.png" alt="">
                         <h3 class="font-1-5rem halloween">
@@ -42,7 +42,7 @@
                         </h3>
                     </div>
                 </div>
-                <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-full flex items-center justify-start">
+                <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-full">
                     <div class="flex flex-row items-center justify-start">
                         <img class=" w-[10%] md:w-[10%] me-5" src="img/icon.png" alt="">
                         <h3 class="font-1-5rem halloween">
@@ -50,7 +50,7 @@
                         </h3>
                     </div>
                 </div>
-                <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-full flex items-center justify-self-end">
+                <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-full ">
                     <div class="flex flex-row items-center justify-start">
                         <img class=" w-[10%] md:w-[10%] me-5" src="img/icon.png" alt="">
                         <h3 class="font-1-5rem halloween">
@@ -58,7 +58,7 @@
                         </h3>
                     </div>
                 </div>
-                <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-full flex items-center justify-start">
+                <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-full">
                     <div class="flex flex-row items-center justify-start">
                         <img class=" w-[10%] md:w-[10%] me-5" src="img/icon.png" alt="">
                         <h3 class="font-1-5rem halloween">
@@ -66,7 +66,7 @@
                         </h3>
                     </div>
                 </div>
-                <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-full flex items-center justify-self-end">
+                <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-full">
                     <div class="flex flex-row items-center justify-start">
                         <img class=" w-[10%] md:w-[10%] me-5" src="img/icon.png" alt="">
                         <h3 class="font-1-5rem halloween">
@@ -74,7 +74,7 @@
                         </h3>
                     </div>
                 </div>
-                <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-full flex items-center justify-start">
+                <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-fullx">
                     <div class="flex flex-row items-center justify-start">
                         <img class=" w-[10%] md:w-[10%] me-5" src="img/icon.png" alt="">
                         <h3 class="font-1-5rem halloween">
@@ -104,10 +104,10 @@
         </div>
     </div>
 
-    <div class="gerigi">
+    <div class="wave-box">
         
     </div>
-    
+
     <div class="bg-2 container-lg">
         <div class="flex flex-col items-center justify-center text-center">
             <h1 class="halloween font-2-5rem mt-16 text-[#312E35] leading-none w-full md:w-[60%]">

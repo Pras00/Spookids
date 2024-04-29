@@ -8,7 +8,7 @@
         </p>
         <h3 class="text-[#F3E9D3] font-1rem montserrat-medium">
             All Rights Reserved by WSOMarket Inc. <br>
-            <span class="font-0-8rem inter-regular underline">Disclaimer - Privacy Policy</span>
+            <span class="font-0-8rem montserrat-regular underline">Disclaimer - Privacy Policy</span>
         </h3>
     </div>
 </div>
