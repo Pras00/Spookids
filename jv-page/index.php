@@ -18,7 +18,7 @@
       <div class="ml-12">
         <img class="w-[6%] max-[992px]:w-[12%]" src="./img/logo.png" alt="logo">
       </div>
-      <div class="min-[769px]:flex min-[320px]:hidden justify-evenly items-center bg-white w-[38rem] max-[992px]:w-[90rem] py-4 rounded-[30px] mr-4">
+      <div class="min-[769px]:flex min-[320px]:hidden justify-evenly items-center bg-white w-[38rem] max-[1200px]:w-[75rem] max-[992px]:w-[90rem] py-4 rounded-[30px] mr-4">
         <a href="#contest" class="smooth-scroll flex justify-center items-center gap-1 rounded-[30px]">
           <p class="font-medium">contest</p>
           <svg class="text-[#FC9850]" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-send" viewBox="0 0 16 16">
@@ -228,8 +228,25 @@
 
 
   <!-- Module -->
-  <section>
-    
+  <section class="bg-[url('./img/bg-8.png')] bg-cover bg-fixed bg-center flex place-content-center p-20 max-[1024px] px-10 max-[480px]:py-12 max-[480px]:px-5">
+    <div class="grid grid-cols-2 max-[768px]:grid-cols-1 place-items-center gap-10 max-[480px]:gap-7">
+      <div class="bg-[url('./img/bg-7.png')] bg-cover bg-center bg-no-repeat rounded-[20px] flex flex-col justify-center items-center text-center px-5 max-[768px]:px-4 py-8">
+        <h3 class="happyHalloween bg-[#FC9850] border-[2px] border-[#312E35] text-[1.5rem] max-[992px]:text-[1.25rem] max-[768px]:text-[1.5rem] max-[480px]:text-[1.25rem] px-12 rounded-full">Title 1</h3>
+        <p class="py-5 max-[992px]:text-[0.8rem] max-[768px]:text-[0.9rem] max-[480px]:text-[0.8rem]">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+        <div class="flex justify-center items-center gap-5">
+          <iframe src="https://www.youtube.com/embed/y6oMutwJQCw" class="w-[15vw] max-[1280px]:w-[16vw] h-[24rem] max-[768px]:w-[24vw] max-[600px]:w-[30vw] max-[480px]:w-[35vw] max-[1024px]:h-[18rem] max-[992px]:h-[15rem] max-[768px]:h-[18rem] max-[600px]:h-[18rem] rounded-2xl" allowfullscreen></iframe>
+          <iframe src="https://www.youtube.com/embed/y6oMutwJQCw" class="w-[15vw] max-[1280px]:w-[16vw] h-[24rem] max-[768px]:w-[24vw] max-[600px]:w-[30vw] max-[480px]:w-[35vw] max-[1024px]:h-[18rem] max-[992px]:h-[15rem] max-[768px]:h-[18rem] max-[600px]:h-[18rem] rounded-2xl" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="bg-[url('./img/bg-7.png')] bg-cover bg-center bg-no-repeat rounded-[20px] flex flex-col justify-center items-center text-center px-5 max-[768px]:px-4 py-8">
+        <h3 class="happyHalloween bg-[#FC9850] border-[2px] border-[#312E35] text-[1.5rem] max-[992px]:text-[1.25rem] max-[768px]:text-[1.5rem] max-[480px]:text-[1.25rem] px-12 rounded-full">Title 1</h3>
+        <p class="py-5 max-[992px]:text-[0.8rem] max-[768px]:text-[0.9rem] max-[480px]:text-[0.8rem]">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+        <div class="flex justify-center items-center gap-5">
+          <iframe src="https://www.youtube.com/embed/y6oMutwJQCw" class="w-[15vw] max-[1280px]:w-[16vw] h-[24rem] max-[768px]:w-[24vw] max-[600px]:w-[30vw] max-[480px]:w-[35vw] max-[1024px]:h-[18rem] max-[992px]:h-[15rem] max-[768px]:h-[18rem] max-[600px]:h-[18rem] rounded-2xl" allowfullscreen></iframe>
+          <iframe src="https://www.youtube.com/embed/y6oMutwJQCw" class="w-[15vw] max-[1280px]:w-[16vw] h-[24rem] max-[768px]:w-[24vw] max-[600px]:w-[30vw] max-[480px]:w-[35vw] max-[1024px]:h-[18rem] max-[992px]:h-[15rem] max-[768px]:h-[18rem] max-[600px]:h-[18rem] rounded-2xl" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
   </section>
 
 
