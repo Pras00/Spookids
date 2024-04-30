@@ -156,7 +156,7 @@
       <h3 class="text-[1.25rem] max-[768px]:text-[1rem] max-[480px]:text-[0.75rem] max-[768px]:-my-3 max-[480px]:-my-1 font-normal leading-[1.75rem] max-[768px]:leading-[1.5rem] max-[480px]:leading-[1rem]">Forget snoozy bedtime stories! Spooky Short is the animated horror short taking social media by storm and freaking out kids everywhere. This bewitching tale is the ultimate mix of spooky and silly, taking your little adventurers on a thrilling, age-appropriate ride filled with unexpected twists and giggles that will have them begging for more.</h3>
     </div>
     <div class="flex justify-center items-center my-12 max-[992px]:my-8 max-[480px]:my-4">
-      <img class="w-[65%] max-[992px]:w-[80%] max-[480px]:w-[90%]" src="./img/BoxMockup.png" alt="mockup">
+      <img class="w-[65%] max-[992px]:w-[80%] max-[480px]:w-[90%]" src="./img/BoxMockup-phone.png" alt="mockup">
     </div>
     <div class="grid grid-cols-1 gap-10 max-[480px]:gap-5 px-52 max-[992px]:px-32 max-[768px]:px-20 max-[480px]:px-10">
       <div class="relative">
