@@ -40,7 +40,7 @@
                 While Your Current Spookids License Allows You To Use The Videos, Upgrade To Spookids Pro And Unlock The Power Of A Private Label Rights (PLR) License!
             </h3>
 
-            <img class="w-[100%] md:w-[50%]" src="https://placehold.co/100x100" alt="">
+            <img class="w-[100%] md:w-[80%]" src="img/BoxMockup3.png" alt="">
 
             <h3 class="halloween font-2-5rem my-12 w-full md:w-[80%]">
                 Unlock Endless Spooky Fun & Maximize Profits with the Spookids Pro PLR License!

@@ -31,7 +31,7 @@
                 </div>
             </div>
 
-            <img class="p-5 w-[100%] md:w-[50%]" src="https://placehold.co/100x100" alt="">
+            <img class="p-5 w-[100%] md:w-[80%]" src="img/BoxMockup3.png" alt="">
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-3 gap-5 my-16 px-5 md:px-0 w-[100%] md:w-[80%] text-start text-[#312E35]">
                 <div class="bg-card px-4 md:px-5 lg:px-6 py-5 w-full">
@@ -91,11 +91,11 @@
             </h1>
 
             <h3 class="font-1-5rem montserrat-medium my-12 w-[70%] md:w-full">
-                Limited-Time Bonus: Unlock Spooktacular Success with Re-Seller Rights!
+                Limited-Time Bonus: Unlock Spooktacular Success With Re-Seller Rights!
             </h3>
 
             <p class="font-1rem montserrat-regular w-full md:w-[70%] mb-16">
-                Elevate your content creation to new heights with Spookids' exclusive Re-Seller Rights offer. This limited-time bonus grants you complete ownership of every video story, template, and asset within the Spookids library.
+                Elevate Your Content Creation To New Heights With Spookids' Exclusive Re-Seller Rights Offer. This Limited-Time Bonus Grants You Complete Ownership Of Every Video Story, Template, And Asset Within The Spookids Library.
             </p>
 
             <a class="flex justify-center" href="">
@@ -105,7 +105,7 @@
     </div>
 
     <div class="wave-box">
-        
+
     </div>
 
     <div class="bg-2 container-lg">
@@ -120,7 +120,7 @@
                         Short-Form Video Dominance
                     </h3>
                     <p class="montserrat-regular font-1rem">
-                        Data suggests shorter videos (under 10 minutes) perform best for younger audiences. Platforms like TikTok and YouTube Shorts favor short-form content.
+                        Data Suggests Shorter Videos (Under 10 Minutes) Perform Best For Younger Audiences. Platforms Like Tiktok And Youtube Shorts Favor Short-Form Content.
                     </p>
                 </div>
                 <div class="bg-data p-8 md:p-12 text-center text-[#F3E9D3]">
@@ -128,7 +128,7 @@
                         Stop-Motion Animation
                     </h3>
                     <p class="montserrat-regular font-1rem">
-                        Studies show stop-motion animation is particularly effective for engaging younger audiences (2-7 years old) due to its unique visual style and storytelling potential.
+                        Studies Show Stop-Motion Animation Is Particularly Effective For Engaging Younger Audiences (2-7 Years Old) Due To Its Unique Visual Style And Storytelling Potential.
                     </p>
                 </div>
                 <div class="bg-data p-8 md:p-12 text-center text-[#F3E9D3]">
@@ -136,7 +136,7 @@
                         Importance of Audio
                     </h3>
                     <p class="montserrat-regular font-1rem">
-                        Research indicates that sound design and music play a crucial role in capturing young viewers' attention and enhancing the overall storytelling experience (Source: Vidyard).
+                        Research Indicates That Sound Design And Music Play A Crucial Role In Capturing Young Viewers' Attention And Enhancing The Overall Storytelling Experience (Source: Vidyard).
                     </p>
                 </div>
                 <div class="bg-data p-8 md:p-12 text-center text-[#F3E9D3]">
@@ -144,7 +144,7 @@
                         Emotional Connection Drives Sharing
                     </h3>
                     <p class="montserrat-regular font-1rem mb-8 md:mb-0">
-                        Short-form videos for kids that spark laughter, surprise, or heartwarming feelings get shared more! (Source: Unruly)
+                        Short-Form Videos For Kids That Spark Laughter, Surprise, Or Heartwarming Feelings Get Shared More! (Source: Unruly)
                     </p>
                 </div>
             </div>
@@ -162,32 +162,32 @@
                     <h3 class="bg-[#312E35] text-[#F3E9D3] rounded-full halloween font-1-2rem py-2 mb-5">
                         Creating Engaging Content that Captures Attention
                     </h3>
-                    <p class="montserrat-regular font-1rem">
-                        In today's saturated social media landscape, it's more difficult than ever to create content that stands out from the crowd. With endless streams of information and entertainment at their fingertips, viewers have short attention spans and are quick to scroll past anything that doesn't immediately grab their attention.
+                    <p class="montserrat-regular font-1rem text-justify">
+                        In Today's Saturated Social Media Landscape, It's More Difficult Than Ever To Create Content That Stands Out From The Crowd. With Endless Streams Of Information And Entertainment At Their Fingertips, Viewers Have Short Attention Spans And Are Quick To Scroll Past Anything That Doesn't Immediately Grab Their Attention.
                     </p>
                 </div>
                 <div class="bg-4 border-4 border-[#F3E9D3] rounded-lg p-5 md:p-8 text-center text-[#312E35]">
                     <h3 class="bg-[#312E35] text-[#F3E9D3] rounded-full  halloween font-1-2rem py-2 mb-5">
                         Attracting and Retaining a Loyal Following
                     </h3>
-                    <p class="montserrat-regular font-1rem">
-                        Building a loyal social media following requires more than just posting great content. It's about connecting with your audience on a deeper level, fostering a sense of community, and encouraging engagement. However, many content creators struggle to achieve this, resulting in stagnant follower growth and a lack of meaningful connections with their viewers.
+                    <p class="montserrat-regular font-1rem text-justify">
+                        Building A Loyal Social Media Following Requires More Than Just Posting Great Content. It's About Connecting With Your Audience On A Deeper Level, Fostering A Sense Of Community, And Encouraging Engagement. However, Many Content Creators Struggle To Achieve This, Resulting In Stagnant Follower Growth And A Lack Of Meaningful Connections With Their Viewers.
                     </p>
                 </div>
                 <div class="bg-4 border-4 border-[#F3E9D3] rounded-lg p-5 md:p-8 text-center text-[#312E35]">
                     <h3 class="bg-[#312E35] text-[#F3E9D3] rounded-full  halloween font-1-2rem py-2 mb-5">
                         Standing Out in the Horror Niche
                     </h3>
-                    <p class="montserrat-regular font-1rem">
-                        The horror niche on social media is highly competitive, with countless creators vying for the attention of the same audience. This makes it difficult for new creators to break through and establish themselves as a recognizable voice in the genre.
+                    <p class="montserrat-regular font-1rem text-justify">
+                        The Horror Niche On Social Media Is Highly Competitive, With Countless Creators Vying For The Attention Of The Same Audience. This Makes It Difficult For New Creators To Break Through And Establish Themselves As A Recognizable Voice In The Genre.
                     </p>
                 </div>
                 <div class="bg-4 border-4 border-[#F3E9D3] rounded-lg p-5 md:p-8 text-center text-[#312E35]">
                     <h3 class="bg-[#312E35] text-[#F3E9D3] rounded-full  halloween font-1-2rem py-2 mb-5">
                         Effectively Utilizing Short-Form Video Platforms
                     </h3>
-                    <p class="montserrat-regular font-1rem">
-                        While short-form video platforms like TikTok, Instagram, and YouTube Shorts offer immense opportunities for growth, many content creators struggle to effectively utilize these platforms. They may lack the knowledge or skills to create engaging short-form content that aligns with the unique characteristics of these platforms.
+                    <p class="montserrat-regular font-1rem text-justify">
+                        While Short-Form Video Platforms Like Tiktok, Instagram, And Youtube Shorts Offer Immense Opportunities For Growth, Many Content Creators Struggle To Effectively Utilize These Platforms. They May Lack The Knowledge Or Skills To Create Engaging Short-Form Content That Aligns With The Unique Characteristics Of These Platforms.
                     </p>
                 </div>
             </div>
@@ -207,7 +207,7 @@
                 "THE SECRET WEAPON FOR CAPTIVATING KIDS AND GROWING YOUR SOCIAL MEDIA PRESENCE!"
             </p>
 
-            <img class="my-12 w-[100%] md:w-[50%]" src="https://placehold.co/100x100" alt="">
+            <img class="my-12 w-[100%] md:w-[60%]" src="img/BoxMockup3.png" alt="">
 
             <p class="montserrat-regular font-1-2rem w-full md:w-[70%]">
                 In The Age Of Short Attention Spans, It's More Important Than Ever To Have Engaging Content That Kids Will Love. With Spookids, You'll Have Access To A Library Of Over 30+ Spooky Tales That Are Proven To Capture The Attention Of Kids Of All Ages
@@ -233,7 +233,7 @@
                             Over 30+ Spooky Tales to Choose From
                         </h3>
                         <p class="montserrat-medium font-1rem">
-                            This version keeps the key points (number of stories, entertainment value) while being more concise
+                            This Version Keeps The Key Points (Number Of Stories, Entertainment Value) While Being More Concise
                         </p>
                     </div>
                     <div class="md:w-1/3 order-1 md:order-2 mb-5 md:mb-0 flex justify-center">
@@ -246,7 +246,7 @@
                             Engaging and Shareable Content for Social Media Growth
                         </h3>
                         <p class="montserrat-medium font-1rem">
-                            This version is shorter and uses stronger verbs like "Grow" and "Love" to create a more impactful message. It also mentions "Spookids" to reinforce brand awareness.
+                            This Version Is Shorter And Uses Stronger Verbs Like "Grow" And "Love" To Create A More Impactful Message. It Also Mentions "Spookids" To Reinforce Brand Awareness.
                         </p>
                     </div>
                     <div class="md:w-1/3 order-1 md:order-1 mb-5 md:mb-0 flex justify-center">
@@ -259,7 +259,7 @@
                             High-Quality Visuals and Sound Effects for an Immersive Experience
                         </h3>
                         <p class="montserrat-medium font-1rem">
-                            Spooky adventures come alive! High-quality visuals and sound effects create a captivating and immersive experience for young viewers.
+                            Spooky Adventures Come Alive! High-Quality Visuals And Sound Effects Create A Captivating And Immersive Experience For Young Viewers.
                         </p>
                     </div>
                     <div class="md:w-1/3 order-1 md:order-2 mb-5 md:mb-0 flex justify-center">
@@ -272,7 +272,7 @@
                             Re-Seller Right License
                         </h3>
                         <p class="montserrat-medium font-1rem">
-                            With our Reseller Rights license, you'll gain the opportunity to build a profitable business while bringing joy and entertainment to kids worldwide.
+                            With Our Reseller Rights License, You'll Gain The Opportunity To Build A Profitable Business While Bringing Joy And Entertainment To Kids Worldwide.
                         </p>
                     </div>
                     <div class="md:w-1/3 order-1 md:order-1 mb-5 md:mb-0 flex justify-center">
@@ -315,11 +315,11 @@
                     </h3>
 
                     <h1 class="halloween font-2-5rem leading-tight my-8 text-[#FC9850]">
-                        Every Spooktacular Story is Ready to Go! Unlike other products, Spookids provides unique, 100% in-house crafted short-form horror tales for kids.
+                        Every Spooktacular Story Is Ready To Go! Unlike Other Products, Spookids Provides Unique, 100% In-House Crafted Short-Form Horror Tales For Kids.
                     </h1>
 
                     <p class="montserrat-regular font-1-2rem text-[#F3E9D3]">
-                        All stories, scripts, animations, voiceovers, and graphics are created by our talented team, granting you full Private Label Rights. This means you can use these chilling tales as your own and keep 100% of the profits!
+                        All Stories, Scripts, Animations, Voiceovers, And Graphics Are Created By Our Talented Team, Granting You Full Private Label Rights. This Means You Can Use These Chilling Tales As Your Own And Keep 100% Of The Profits!
                     </p>
                 </div>
             </div>
@@ -764,7 +764,7 @@
                 Grab Full Access To <span class="text-[#FC9850]">"SPOOKIDS"</span> Now ! <br> With <span class="text-[#FC9850]">50% Discount</span>
             </h1>
 
-            <img class="p-5 w-[100%] md:w-[50%]" src="https://placehold.co/100x100" alt="">
+            <img class="p-5 w-[100%] md:w-[80%]" src="img/BoxMockup3-with-phone.png" alt="">
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-8 mx-4 md:mx-8 lg:mx-16 p-3 md:p-16">
                 <div class="border-0 bg-2 drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 py-8">
@@ -847,7 +847,7 @@
                 </div>
             </div>
 
-            <h4 class="font-1-5rem montserrat-medium mt-12">
+            <h4 class="font-1-5rem montserrat-medium">
                 You Must HURRY..!!<br>
                 <span class="montserrat-regular">The 50% Discount only available for 5 Days During The Launch Event!</span> <br>
                 After 5 Days... Discount Will Be REMOVED!!
