@@ -25,7 +25,7 @@
                 </h1>
 
                 <div class="border-0 bg-[#FC9850] rounded-full w-full md:w-[80%] p-5 my-16 mx-8">
-                    <h3 class="montserrat-medium font-1rem text-center text-white">
+                    <h3 class="montserrat-semibold font-1rem text-center text-[#312E35]">
                         OVER 30+ SPOOKY TALES TO CHOOSE FROM: KEEP YOUR AUDIENCE ENTERTAINED AND ENGAGED
                     </h3>
                 </div>
@@ -197,10 +197,10 @@
 
     <div class="bg-3 container-lg">
         <div class="flex flex-col items-center justify-center text-center py-16 px-5 md:px-0">
-            <h3 class="montserrat-semibold font-1-5rem">
+            <h3 class="montserrat-medium font-1-5rem">
                 Introducing...
             </h3>
-            <h1 class="halloween font-bold font-3rem">
+            <h1 class="halloween font-bold font-3-5rem">
                 SPOOKIDS
             </h1>
             <p class="montserrat-medium font-1-2rem italic mt-8 md:mt-12">
@@ -335,7 +335,7 @@
                         $produk_data = $produk[$i];
                     ?>
                         <div class="bg-5 rounded-2xl flex flex-col justify-center items-center p-5 md:p-8">
-                            <h1 class="bg-[#FC9850] rounded-full halloween font-1-5rem px-12 mb-5 text-[#312E35]"><?php echo $produk_data['title']; ?></h1>
+                            <h1 class="bg-[#FC9850] rounded-full halloween font-1-5rem px-12 py-2 mb-5 text-center text-[#312E35] leading-none"><?php echo $produk_data['title']; ?></h1>
                             <p class="montserrat-regular font-1rem text-justify text-[#F3E9D3]"><?php echo $produk_data['paragraph']; ?></p>
                             <div class="flex flex-row justify-center items-center mt-5">
                                 <iframe src="<?php echo $produk_data['preview']; ?>" class="w-[50%] md:w-[40%] h-80 md:h-96 rounded-2xl me-2 md:me-3" allowfullscreen></iframe>
@@ -424,7 +424,7 @@
                     Unleash the Spooky Fun for Everyone!
                 </h1>
 
-                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 grid-rows-1 gap-8 mt-12 mx-3 md:mx-8 lg:mx-16 montserrat-bold text-start text-black">
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 grid-rows-1 gap-8 mt-12 mx-3 md:mx-8 lg:mx-16">
                     <div class="bg-transparent p-5 md:p-8 text-center text-[#F3E9D3] flex flex-col items-center">
                         <img class="w-[60%] md:w-[70%] mb-8" src="img/Content creator-rafiki.png" alt="">
                         <p class="montserrat-medium font-1-2rem">
@@ -461,7 +461,7 @@
                             Tap into the Power of Short-Form Video
                         </h3>
                         <h3 class="montserrat-regular font-1rem">
-                            Short-form video content is taking the social media world by storm, and Spooky Shorts provides you with the perfect tools to capitalize on this trend. Our collection of engaging and shareable short horror videos for kids is specifically designed to capture the attention of viewers on platforms like TikTok, Instagram, and YouTube Shorts.
+                            Short-Form Video Content Is Taking The Social Media World By Storm, And Spooky Shorts Provides You With The Perfect Tools To Capitalize On This Trend. Our Collection Of Engaging And Shareable Short Horror Videos For Kids Is Specifically Designed To Capture The Attention Of Viewers On Platforms Like Tiktok, Instagram, And Youtube Shorts.
                         </h3>
                     </div>
                 </div>
@@ -469,14 +469,14 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-2 gap-5 text-[#F3E9D3] w-[100%] md:w-[80%]">
                     <div class="bg-5 border-0 rounded-2xl shadow-lg px-3 md:px-6 lg:px-8 py-5 w-full">
                         <div class="flex justify-center items-center mb-5">
-                            <img src="img/Followers-amico.png" alt="" class="w-[155px] md:w-[200px]">
+                            <img src="img/Followers-amico.png" alt="" class="w-[155px] md:w-[175px]">
                         </div>
                         <div class="flex flex-col justify-center text-center">
                             <h1 class="halloween font-1-5rem mb-5">
-                                Reduced Conversion Rates
+                                Attract New Followers and Expand Your Reach
                             </h1>
                             <h3 class="montserrat-regular font-1rem">
-                                Without lead magnet, businesses may find it challenging to convert website visitors into leads and eventually into customers. Offering a valuable lead magnet can significantly boost conversion rates by providing visitors with a reason to engage with the brand and share their contact information.
+                                With Spookids, You Can Attract New Followers From All Corners Of The Social Media Landscape. Our Captivating Content Will Draw In Viewers Who Are Interested In Horror, Entertainment, And Creative Storytelling, Expanding Your Reach And Diversifying Your Audience.
                             </h3>
                         </div>
                     </div>
@@ -489,7 +489,7 @@
                                 Establish Yourself as a Content Creator in the Horror Niche
                             </h1>
                             <h3 class="montserrat-regular font-1rem">
-                                By consistently posting high-quality Spookids content, you'll establish yourself as a recognized and respected content creator in the horror niche. This reputation will attract even more followers and open up new opportunities for collaboration and growth.
+                                By Consistently Posting High-Quality Spookids Content, You'll Establish Yourself As A Recognized And Respected Content Creator In The Horror Niche. This Reputation Will Attract Even More Followers And Open Up New Opportunities For Collaboration And Growth.
                             </h3>
                         </div>
                     </div>
@@ -502,7 +502,7 @@
                                 Boost Engagement and Build a Loyal Following
                             </h1>
                             <h3 class="montserrat-regular font-1rem">
-                                Spookids is not just about attracting new followers; it's about building a loyal and engaged community. Our videos will spark conversations, encourage interaction, and keep your audience coming back for more.
+                                Spookids Is Not Just About Attracting New Followers; It's About Building A Loyal And Engaged Community. Our Videos Will Spark Conversations, Encourage Interaction, And Keep Your Audience Coming Back For More.
                             </h3>
                         </div>
                     </div>
@@ -515,7 +515,7 @@
                                 Generate Excitement and Buzz
                             </h1>
                             <h3 class="montserrat-regular font-1rem">
-                                Spookids is guaranteed to generate excitement and buzz around your social media channels. The unique and thrilling nature of our short horror videos will have your audience hooked, eager to share your content with their friends and followers.
+                                Spookids Is Guaranteed To Generate Excitement And Buzz Around Your Social Media Channels. The Unique And Thrilling Nature Of Our Short Horror Videos Will Have Your Audience Hooked, Eager To Share Your Content With Their Friends And Followers.
                             </h3>
                         </div>
                     </div>
@@ -596,20 +596,20 @@
                     <img src="img/coin.png" alt="" class="w-[70%] md:w-[900px]">
                 </div>
                 <div class="flex flex-col justify-center text-justify mx-3 md:mx-6">
-                    <h3 class="montserrat-regular font-1rem text-[#F3E9D3]">
-                        We are offering you a mind-blowing and extremely profiting opportunity to get
+                    <h3 class="montserrat-medium font-1rem text-[#F3E9D3]">
+                        We Are Offering You A Mind-Blowing And Extremely Profiting Opportunity To Get
                         <span class="text-[#FC9850]">
                             Reseller Right
                         </span>
-                        to a stunning product that sells super quickly and enable you to experience profits without any hard work. <br><br>
-
-                        Top marketers know that people are running their dream business online by selling their own products and totally killing it. <br><br>
-
-                        You also can start your own digital business
+                        To A Stunning Product That Sells Super Quickly And Enable You To Experience Profits Without Any Hard.
+                        <br><br>
+                        Top Marketers Know That People Are Running Their Dream Business Online By Selling Their Own Products And Totally Killing It.
+                        <br><br>
+                        You Also Can Start Your Own Digital Business
                         <span class="text-[#FC9850]">
                             TODAY… FASTER… EASIER…
                         </span>
-                        by getting your hands on this
+                        By Getting Your Hands On This
                         <span class="text-[#FC9850]">
                             Complete Package!!
                         </span>
@@ -635,7 +635,7 @@
                         <img class="w-[60%] md:w-[60%]" src="img/Download-amico.png" alt="">
                     </div>
                     <h3 class="montserrat-medium font-1-2rem mt-3">
-                        Download our Ready-to-Sell market product
+                        Download our Ready-to-Sell Market Product
                     </h3>
                 </div>
                 <div class="bg-step-2 rounded-2xl flex flex-col justify-center items-center px-4 md:px-4 lg:px-5 py-8 md:py-8">
@@ -668,7 +668,7 @@
                         <img class="w-[60%] md:w-[60%]" src="img/Marketing-amico.png" alt="">
                     </div>
                     <h3 class="montserrat-medium font-1-2rem mt-3">
-                        Instantly make Sales and Keep Entire Profits with for yourself!!!
+                        Instantly Make Sales and Keep Entire Profits With for Yourself!!!
                     </h3>
                 </div>
             </div>
@@ -752,7 +752,8 @@
                 </div>
             </div>
             <h1 class="montserrat-medium font-1-5rem">
-                And a lot more..!! <br>So many possibility and place you can use to make money with this product
+                And A Lot More..!! <br>
+                So Many Possibility And Place You Can Use To Make Money With This Product
             </h1>
         </div>
     </div>
@@ -764,7 +765,7 @@
                 Grab Full Access To <span class="text-[#FC9850]">"SPOOKIDS"</span> Now ! <br> With <span class="text-[#FC9850]">50% Discount</span>
             </h1>
 
-            <img class="p-5 w-[100%] md:w-[80%]" src="img/BoxMockup3-with-phone.png" alt="">
+            <img class="p-5 w-[100%] md:w-[90%]" src="img/BoxMockup3-with-phone.png" alt="">
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-8 mx-4 md:mx-8 lg:mx-16 p-3 md:p-16">
                 <div class="border-0 bg-2 drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 py-8">
@@ -849,7 +850,7 @@
 
             <h4 class="font-1-5rem montserrat-medium">
                 You Must HURRY..!!<br>
-                <span class="montserrat-regular">The 50% Discount only available for 5 Days During The Launch Event!</span> <br>
+                <span class="montserrat-regular">The 50% Discount Only Available for 5 Days During The Launch Event!</span> <br>
                 After 5 Days... Discount Will Be REMOVED!!
             </h4>
 

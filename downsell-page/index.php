@@ -18,12 +18,12 @@
                 <div class="flex flex-col md:flex-row items-center justify-center">
                     <img class="w-[65%] md:w-[30%] mr-0 md:mr-8 mb-5 md:mb-0" src="img/waiting.gif" alt="">
                     <div class="text-[#F3E9D3]">
-                        <h3 class="halloween font-2-5rem mb-5">
+                        <h3 class="text-[#FC9850] halloween font-3rem mb-5">
                             Wait! One last Change..
                         </h3>
                         <h5 class="montserrat-regular font-1-2rem">
-                            After this, You Won't See this Offer Again. So Read Every Word and Decide on this Page Carefully! <br><br>
-                            Make sure to read every word carefully as this offer for Spookids won't be available again after this.
+                            After This, You Won't See This Offer Again. So Read Every Word and Decide on This Page Carefully! <br><br>
+                            Make Sure to Read Every Word Carefully as This Offer for Spookids Won't be Available Again After This.
                         </h5>
                     </div>
                 </div>
@@ -39,33 +39,30 @@
     <div class="bg-1 container-lg">
         <div class="flex flex-col items-center justify-center text-center p-5 py-16 text-[#F3E9D3]">
             <h1 class="halloween font-3rem leading-tight">
-                Unleash the Power of Spookids Pro: <br> Exclusive Content & PLR License
+                Go Spooktacular Platinum! <br> Save <span class="text-[#FC9850]">$10</span> on Your <span class="text-[#FC9850]">Spookids </span> Content!
             </h1>
             <h3 class="montserrat-regular font-1-5rem my-12 w-full md:w-[80%]">
-                While Your Current Spookids License Allows You To Use The Videos, Upgrade To Spookids Pro And Unlock The Power Of A Private Label Rights (PLR) License!
+                While Your Current License Allows Personal Use, Upgrade To Spookids With Commercial License For Full Creative Freedom And Profit Potential! Craft Chilling Short-Form Horror Content For Your Clients And Keep 100% Of The Earnings.
             </h3>
 
             <img class="w-[100%] md:w-[80%]" src="img/BoxMockup3.png" alt="">
 
-            <h3 class="halloween font-2-5rem my-12 w-full md:w-[80%]">
-                Unlock Endless Spooky Fun & Maximize Profits with the Spookids Pro PLR License!
-            </h3>
-            <h4 class="montserrat-regular font-1-5rem w-full md:w-[80%] mb-16">
-                Are You Ready To Captivate Audiences And Grow Your Business With Spookids? Take Your Content Creation And Reselling To The Next Level With Our Exclusive Private Label Rights (PLR) License Included In Spookids Pro.
+            <h4 class="montserrat-regular font-1-5rem w-full md:w-[80%] my-12">
+                Captivate Young Audiences and Grow Your Brand with Spookids: Create Shareable Short-Form Horror Videos That Resonate with Kids.
             </h4>
 
             <div class="flex flex-col items-center justify-center text-center w-full md:w-[80%]">
                 <div class="bg-2 rounded-lg p-5 md:p-8 text-center text-[#312E35] flex flex-col md:flex-row items-center mb-8">
                     <div class="md:w-2/3 order-2 md:order-1 md:mr-16 flex flex-col items-center">
                         <h3 class="bg-[#312E35] text-[#F3E9D3] rounded-full py-1 halloween font-1-2rem mb-5 px-8">
-                            Over 30+ Spooky Tales to Choose From
+                            Over 60+ Spooky Tales to Choose From
                         </h3>
                         <p class="montserrat-medium font-1rem text-[#312E35]">
-                            This version keeps the key points (number of stories, entertainment value) while being more concise
+                            This Version Keeps The Key Points (Number Of Stories, Entertainment Value) While Being More Concise
                         </p>
                     </div>
                     <div class="md:w-1/3 order-1 md:order-2 mb-5 md:mb-0 flex justify-center">
-                        <img class="w-[60%] md:w-[70%]" src="img/sm.png" alt="">
+                        <img class="w-[60%] md:w-[70%]" src="img/Halloween tickets-amico.png" alt="">
                     </div>
                 </div>
                 <div class="bg-4 rounded-lg p-5 md:p-8 text-center text-[#312E35] flex flex-col md:flex-row items-center mb-8">
@@ -74,7 +71,7 @@
                             Engaging and Shareable Content for Social Media Growth
                         </h3>
                         <p class="montserrat-medium font-1rem">
-                            This version is shorter and uses stronger verbs like "Grow" and "Love" to create a more impactful message. It also mentions "Spookids" to reinforce brand awareness.
+                            This Version Is Shorter And Uses Stronger Verbs Like "Grow" And "Love" To Create A More Impactful Message. It Also Mentions "Spookids" To Reinforce Brand Awareness.
                         </p>
                     </div>
                     <div class="md:w-1/3 order-1 md:order-1 mb-5 md:mb-0 flex justify-center">
@@ -87,24 +84,24 @@
                             High-Quality Visuals and Sound Effects for an Immersive Experience
                         </h3>
                         <p class="montserrat-medium font-1rem text-[#312E35]">
-                            Spooky adventures come alive! High-quality visuals and sound effects create a captivating and immersive experience for young viewers.
+                            Spooky Adventures Come Alive! High-Quality Visuals And Sound Effects Create A Captivating And Immersive Experience For Young Viewers.
                         </p>
                     </div>
                     <div class="md:w-1/3 order-1 md:order-2 mb-5 md:mb-0 flex justify-center">
-                        <img class="w-[60%] md:w-[70%]" src="img/sm.png" alt="">
+                        <img class="w-[60%] md:w-[70%]" src="img/Product quality-bro.png" alt="">
                     </div>
                 </div>
                 <div class="bg-4 rounded-lg p-5 md:p-8 text-center text-[#312E35] flex flex-col md:flex-row items-center mb-8">
                     <div class="md:w-2/3 order-2 md:order-2 md:mr-16 flex flex-col items-center">
                         <h3 class="bg-[#312E35] text-[#F3E9D3] rounded-full py-1  halloween font-1-2rem mb-5 px-8">
-                            Engaging and Shareable Content for Social Media Growth
+                            Re-Seller Right License
                         </h3>
                         <p class="montserrat-medium font-1rem">
-                            This version is shorter and uses stronger verbs like "Grow" and "Love" to create a more impactful message. It also mentions "Spookids" to reinforce brand awareness.
+                            With Our Reseller Rights License, You'll Gain The Opportunity To Build A Profitable Business While Bringing Joy And Entertainment To Kids Worldwide.
                         </p>
                     </div>
                     <div class="md:w-1/3 order-1 md:order-1 mb-5 md:mb-0 flex justify-center">
-                        <img class="w-[60%] md:w-[70%]" src="img/sm.png" alt="">
+                        <img class="w-[60%] md:w-[70%]" src="img/Select-bro.png" alt="">
                     </div>
                 </div>
             </div>
@@ -113,152 +110,50 @@
 
 
     <div class="container-lg bg-2">
-        <div class="flex flex-col items-center justify-center text-center p-3 py-16">
+        <div class="flex flex-col items-center justify-center p-3 py-16">
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-8 mx-0 md:mx-8 lg:mx-24 p-3 text-white">
-                <div class="border-0 bg-[#312E35] drop-shadow-lg rounded-2xl h-full md:h-[60%]">
-                    <h1 class="bg-[#F3E9D3] halloween font-2rem mt-8 text-[#312E35]">
+                <div class="border-0 bg-[#312E35] drop-shadow-lg rounded-2xl h-full md:h-[55%]">
+                    <h1 class="bg-[#F3E9D3] halloween font-2rem mt-8 text-[#312E35] text-center">
                         YOUR CURRENT PACKAGE
                     </h1>
 
                     <div class="p-3 md:p-8 text-[#F3E9D3]">
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
+                        <?php include 'title.php'; ?>
+                        <?php foreach ($titlesFE as $fe) { ?>
+                            <div class="flex flex-row items-center justify-start mb-3">
+                                <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
+                                <h3 class="font-0-8rem montserrat-medium ms-3">
+                                    <?php echo $fe; ?> (@$27) = $675 Value
+                                </h3>
+                            </div>
+                        <?php } ?>
 
                         <div class="flex flex-row items-center justify-center mt-12">
                             <h3 class="font-2rem halloween ms-3">
-                                Total Value = <span class="text-[#FF0000]">27.750</span>
+                                Total Value = <span class="text-[#FC9850]">$ 27.750</span>
                             </h3>
                         </div>
                     </div>
                 </div>
                 <div class="border-0 bg-[#312E35] drop-shadow-lg rounded-2xl">
-                    <h1 class="bg-[#FC9850] halloween font-2rem mt-8 text-[#312E35]">
+                    <h1 class="bg-[#FC9850] halloween font-2rem mt-8 text-[#312E35] text-center">
                         NEW EXTENDED PACKAGE
                     </h1>
 
                     <div class="p-3 md:p-8 text-[#F3E9D3]">
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
-                        <div class="flex flex-row items-center justify-start mb-3">
-                            <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
-                            <h3 class="font-0-8rem montserrat-medium ms-3">
-                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
-                            </h3>
-                        </div>
+                        <?php include 'title.php'; ?>
+                        <?php foreach ($titlesUpsell as $us) { ?>
+                            <div class="flex flex-row items-center justify-start mb-3">
+                                <img class="w-[8%] md:w-[5%]" src="img/point.png" alt="">
+                                <h3 class="font-0-8rem montserrat-medium ms-3">
+                                    <?php echo $us; ?> (@$27) = $675 Value
+                                </h3>
+                            </div>
+                        <?php } ?>
 
                         <div class="flex flex-row items-center justify-center mt-12">
                             <h3 class="font-2rem halloween ms-3">
-                                Total Value = <span class="text-[#FF0000]">27.750</span>
+                                Total Value = <span class="text-[#FC9850]">$ 27.750</span>
                             </h3>
                         </div>
                     </div>
@@ -270,7 +165,7 @@
     <div class="container-lg bg-1">
         <div class="flex flex-col items-center justify-center text-center py-16 px-3 md:px-0">
             <h2 class="halloween font-3rem text-[#F3E9D3] w-full md:w-[50%] px-3">
-                Why Upgrade to Spookids Pro?
+                Why Upgrade to Spookids Platinum Version?
             </h2>
 
             <img class="w-[60%] md:w-[25%] my-5" src="img/img-why.png" alt="">
@@ -282,7 +177,7 @@
                             Double the Spooktacular Content
                         </h1>
                         <h3 class="montserrat-regular font-1rem text-justify">
-                            Access a massive library of 60+ exclusive Spookids not available in the standard version. Keep your audience engaged and coming back for more!
+                            Access A Massive Library Of 60+ Exclusive Spookids Not Available In The Standard Version. Keep Your Audience Engaged And Coming Back For More!
                         </h3>
                     </div>
                 </div>
@@ -292,7 +187,7 @@
                             Captivating Teasers
                         </h1>
                         <h3 class="montserrat-regular font-1rem text-justify">
-                            Elevate your marketing with 60+ high-quality teaser videos designed to grab attention and build hype for your Spookids content.
+                            Elevate Your Marketing With 60+ High-Quality Teaser Videos Designed To Grab Attention And Build Hype For Your Spookids Content.
                         </h3>
                     </div>
                 </div>
@@ -302,7 +197,7 @@
                             Own Your Content & Resell for Profits
                         </h1>
                         <h3 class="montserrat-regular font-1rem text-justify">
-                            Gain a powerful Private Label Rights (PLR) license with Spookids Pro. Edit, rebrand, and resell the videos (or create new stories based on them) to your audience – you keep all the profits!
+                            Gain A Powerful Private Label Rights (PLR) License With Spookids Pro. Edit, Rebrand, And Resell The Videos (Or Create New Stories Based On Them) To Your Audience – You Keep All The Profits!
                         </h3>
                     </div>
                 </div>
@@ -312,7 +207,7 @@
                             Effortless Marketing Tools
                         </h1>
                         <h3 class="montserrat-regular font-1rem text-justify">
-                            Save time and resources with a professional Sales Page Bundle and a Mockup Bundle pre-designed to showcase your Spookids.
+                            Save Time And Resources With A Professional Sales Page Bundle And A Mockup Bundle Pre-Designed To Showcase Your Spookids.
                         </h3>
                     </div>
                 </div>
@@ -320,18 +215,42 @@
             <div class="border-4 border-[#FC9850] bg-[#F3E9D3] rounded-2xl mt-5 w-full md:w-[40%]">
                 <div class="flex flex-col justify-center text-center p-8 text-[#312E35]">
                     <h1 class="bg-[#FC9850] rounded-full text-[#312E35] halloween font-1-5rem mb-5">
-                        Effortless Marketing Tools
+                        Ready-Made Email Swipes
                     </h1>
                     <h3 class="montserrat-regular font-1rem text-justify">
-                        Save time and resources with a professional Sales Page Bundle and a Mockup Bundle pre-designed to showcase your Spookids.
+                        Craft High-Converting Email Campaigns In A Snap With A Collection Of Pre-Written Email Swipes Promoting Your Spookids Content.
                     </h3>
                 </div>
             </div>
         </div>
 
         <div class="bg-5 container-lg">
-            <div class="bg-[url('img/strip.png')] py-5 md:py-12" style="background-size: contain; background-repeat:no-repeat;">
+
+            <div class="bg-[#FC9850] py-1">
+                <div class="flex flex-row">
+                    <div class="flex flex-row items-center justify-center me-5 md:me-0">
+                        <img class="w-[15%] md:w-[10%] me-1 md:me-3" src="img/icon.png" alt="">
+                        <h1 class="halloween font-2-5rem text-[#312E35]">SPOOKIDS!</h1>
+                    </div>
+                    <div class="flex flex-row items-center justify-center me-5 md:me-0">
+                        <img class="w-[15%] md:w-[10%] me-1 md:me-3" src="img/icon.png" alt="">
+                        <h1 class="halloween font-2-5rem text-[#312E35]">SPOOKIDS!</h1>
+                    </div>
+                    <div class="hidden md:flex flex-row items-center justify-center me-5 md:me-0">
+                        <img class="w-[15%] md:w-[10%] me-1 md:me-3" src="img/icon.png" alt="">
+                        <h1 class="halloween font-2-5rem text-[#312E35]">SPOOKIDS!</h1>
+                    </div>
+                    <div class="hidden md:flex flex-row items-center justify-center me-5 md:me-0">
+                        <img class="w-[15%] md:w-[10%] me-1 md:me-3" src="img/icon.png" alt="">
+                        <h1 class="halloween font-2-5rem text-[#312E35]">SPOOKIDS!</h1>
+                    </div>
+                    <div class="hidden md:flex flex-row items-center justify-center me-5 md:me-0">
+                        <img class="w-[15%] md:w-[10%] me-1 md:me-3" src="img/icon.png" alt="">
+                        <h1 class="halloween font-2-5rem text-[#312E35]">SPOOKIDS!</h1>
+                    </div>
+                </div>
             </div>
+
             <div class="flex flex-col items-center justify-center text-center py-8 md:py-12 px-3 md:px-0">
                 <div class="w-full md:w-[80%] flex flex-col justify-center items-center">
                     <h3 class="bg-[#F3E9D3] text-[#312E35] rounded-full py-2 montserrat-bold font-1-2rem w-full md:w-[40%]">
@@ -377,12 +296,9 @@
                     <h3 class="halloween font-2-5rem">
                         LIMITED TIME OFFER!!!
                     </h3>
-                    <h5 class="montserrat-medium font-2rem">
-                        Spookids Pro + PLR License
-                    </h5>
 
                     <p class="montserrat-regular font-1-5rem mt-8">
-                        You get more Spooktacular Story and able to Re-Sell under your own brand
+                        If You Leave This Page Now,You Will Never Get to See This Offer Again...
                     </p>
 
                     <!-- <img class="w-[100%] md:w-[55%] my-8" src="img/limited.png" alt=""> -->
