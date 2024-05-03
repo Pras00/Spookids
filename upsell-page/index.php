@@ -223,7 +223,7 @@
             </div>
         </div>
 
-        <div class="bg-[#312E35] container-lg">
+        <div class="bg-5 container-lg">
 
             <div class="bg-[#FC9850] py-1">
                 <div class="flex flex-row">
