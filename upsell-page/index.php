@@ -26,12 +26,14 @@
                 <h5 class="montserrat-medium font-1rem">
                     Continue Your Purchase By Scrolling Down To Review The Products You've Selected.
                 </h5>
-                <img class="w-[10%] md:w-[8%] mt-3" src="img/arrow.png" alt="">
+                <a href="#intro" class="w-[10%] md:w-[8%] mt-3">
+                    <img src="img/arrow.png" alt="">
+                </a>
             </div>
         </div>
     </div>
 
-    <div class="container-lg bg-3">
+    <div id="intro" class="container-lg bg-3">
         <div class="flex flex-col items-center justify-center text-center p-5 py-16 text-[#312E35]">
             <h1 class="halloween font-3rem leading-tight">
                 Unleash the Power of Spookids Pro: <br> Exclusive Content & PLR License
@@ -92,10 +94,10 @@
                 <div class="bg-4 rounded-lg p-5 md:p-8 text-center text-[#312E35] flex flex-col md:flex-row items-center mb-8">
                     <div class="md:w-2/3 order-2 md:order-2 md:mr-16 flex flex-col items-center">
                         <h3 class="bg-[#312E35] text-[#F3E9D3] rounded-full py-1  halloween font-1-2rem mb-5 px-8">
-                            Re-Seller Right License
+                            Private Label Rights (PLR) License
                         </h3>
                         <p class="montserrat-medium font-1rem">
-                            With Our Reseller Rights License, You'll Gain The Opportunity To Build A Profitable Business While Bringing Joy And Entertainment To Kids Worldwide.
+                            The Spookids Pro + Private Label Rights (PLR) License Unlocks A World Of Creative Possibilities And Profit Potential. Go Beyond Personal Use And Unleash Your Inner Horror Mastermind! This License Grants You Full Rights To Modify, Brand, And Resell Our Chilling Collection Of Spookids Short-Form Horror Videos.
                         </p>
                     </div>
                     <div class="md:w-1/3 order-1 md:order-1 mb-5 md:mb-0 flex justify-center">
@@ -261,25 +263,40 @@
                     </h1>
 
                 </div>
-                <img class="w-[10%] md:w-[4%] mt-3" src="img/arrow2.png" alt="">
+                <a href="#produk" class="w-[10%] md:w-[4%] mt-3">
+                    <img src="img/arrow2.png" alt="">
+                </a>
             </div>
         </div>
 
-        <div class="bg-2 container-lg">
+        <div id="produk" class="bg-2 container-lg">
             <div class="flex flex-row items-center justify-center py-8 md:py-16 px-5 md:px-16">
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-8">
                     <?php
                     include 'produk.php';
 
-                    for ($i = 0; $i < min(count($produk), 60); $i++) {
-                        $produk_data = $produk[$i];
+                    foreach ($produk as $produk_data) {
                     ?>
                         <div class="bg-5 rounded-2xl flex flex-col justify-center items-center p-5 md:p-8">
                             <h1 class="bg-[#FC9850] rounded-full halloween font-1-5rem px-12 py-2 mb-5 text-center text-[#312E35] leading-none"><?php echo $produk_data['title']; ?></h1>
                             <p class="montserrat-regular font-1rem text-justify text-[#F3E9D3]"><?php echo $produk_data['paragraph']; ?></p>
-                            <div class="flex flex-row justify-center items-center mt-5">
-                                <iframe src="<?php echo $produk_data['preview']; ?>" class="w-[50%] md:w-[40%] h-80 md:h-96 rounded-2xl me-2 md:me-3" allowfullscreen></iframe>
-                                <iframe src="<?php echo $produk_data['trailer']; ?>" class="w-[50%] md:w-[40%] h-80 md:h-96 rounded-2xl ms-2 md:ms-3" allowfullscreen></iframe>
+                            <div class="flex flex-row justify-center items-center">
+                                <div class="flex flex-col justify-center items-center w-[50%] md:w-[45%] mt-3 me-2 md:me-3">
+                                    <h1 class="halloween text-[#312E35] bg-[#F3E9D3] text-center rounded-full font-1-2rem mb-3 px-8">Preview</h1>
+                                    <div class="w-full rounded-2xl relative" style="cursor: pointer;">
+                                        <img src="<?php echo $produk_data['img-preview']; ?>" alt="Preview Image" class="w-full h-auto rounded-2xl preview-image" data-preview-url="<?php echo $produk_data['preview']; ?>" data-product-id="<?php echo $produk_data['id']; ?>">
+                                        <iframe id="preview-video-<?php echo $produk_data['id']; ?>" class="hidden absolute inset-0 w-full h-full rounded-2xl" allowfullscreen></iframe>
+                                        <button id="play-button-preview-<?php echo $produk_data['id']; ?>" onclick="openVideo('<?php echo $produk_data['preview']; ?>', '<?php echo $produk_data['id']; ?>', 'preview')" class="play-button absolute inset-0 flex justify-center items-center text-white text-4xl"><i class="fas fa-play"></i></button>
+                                    </div>
+                                </div>
+                                <div class="flex flex-col justify-center items-center w-[50%] md:w-[45%] mt-3 ms-2 md:ms-3">
+                                    <h1 class="halloween text-[#312E35] bg-[#F3E9D3] text-center rounded-full font-1-2rem mb-3 px-8">Trailer</h1>
+                                    <div class="w-full rounded-2xl relative" style="cursor: pointer;">
+                                        <img src="<?php echo $produk_data['img-trailer']; ?>" alt="Trailer Image" class="w-full h-auto rounded-2xl trailer-image" data-trailer-url="<?php echo $produk_data['trailer']; ?>" data-product-id="<?php echo $produk_data['id']; ?>">
+                                        <iframe id="trailer-video-<?php echo $produk_data['id']; ?>" class="hidden absolute inset-0 w-full h-full rounded-2xl" allowfullscreen></iframe>
+                                        <button id="play-button-trailer-<?php echo $produk_data['id']; ?>" onclick="openVideo('<?php echo $produk_data['trailer']; ?>', '<?php echo $produk_data['id']; ?>', 'trailer')" class="play-button absolute inset-0 flex justify-center items-center text-white text-4xl"><i class="fas fa-play"></i></button>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     <?php
@@ -320,6 +337,7 @@
         </div>
 
         <?php include('privacypolicy.php') ?>
+        <script src="js/script.js"></script>
 </body>
 
 </html>

@@ -94,10 +94,10 @@
                 <div class="bg-4 rounded-lg p-5 md:p-8 text-center text-[#312E35] flex flex-col md:flex-row items-center mb-8">
                     <div class="md:w-2/3 order-2 md:order-2 md:mr-16 flex flex-col items-center">
                         <h3 class="bg-[#312E35] text-[#F3E9D3] rounded-full py-1  halloween font-1-2rem mb-5 px-8">
-                            Re-Seller Right License
+                            Private Label Rights (PLR) License
                         </h3>
                         <p class="montserrat-medium font-1rem">
-                            With Our Reseller Rights License, You'll Gain The Opportunity To Build A Profitable Business While Bringing Joy And Entertainment To Kids Worldwide.
+                            The Spookids Pro + Private Label Rights (PLR) License Unlocks A World Of Creative Possibilities And Profit Potential. Go Beyond Personal Use And Unleash Your Inner Horror Mastermind! This License Grants You Full Rights To Modify, Brand, And Resell Our Chilling Collection Of Spookids Short-Form Horror Videos.
                         </p>
                     </div>
                     <div class="md:w-1/3 order-1 md:order-1 mb-5 md:mb-0 flex justify-center">

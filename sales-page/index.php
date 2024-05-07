@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="css/style.css">
-    <link rel="shortcut icon" href="" type="image/x-icon">
+    <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
     <script src="https://cdn.tailwindcss.com"></script>
     <title>Sales Page - Spookids</title>
 </head>
@@ -86,7 +86,7 @@
         </div>
 
         <div class="flex flex-col items-center justify-center text-center p-3 md:p-0 text-[#F3E9D3]">
-            <h1 class="halloween font-2-5rem mt-16">
+            <h1 class="halloween font-2-5rem mt-12">
                 Exclusive Spookids Library: Over 30+ Spooky Treats Await!
             </h1>
 
@@ -98,14 +98,10 @@
                 Elevate Your Content Creation To New Heights With Spookids' Exclusive Re-Seller Rights Offer. This Limited-Time Bonus Grants You Complete Ownership Of Every Video Story, Template, And Asset Within The Spookids Library.
             </p>
 
-            <a class="flex justify-center" href="">
-                <img class="mb-16 w-[90%] md:w-[40%] cta" src="img/cta.png" alt="">
+            <a class="flex justify-center" href="#cta">
+                <img class="mb-16 w-[90%] md:w-[40%] cta" src="img/cta2.png" alt="">
             </a>
         </div>
-    </div>
-
-    <div class="wave-box">
-
     </div>
 
     <div class="bg-2 container-lg">
@@ -213,7 +209,7 @@
                 In The Age Of Short Attention Spans, It's More Important Than Ever To Have Engaging Content That Kids Will Love. With Spookids, You'll Have Access To A Library Of Over 30+ Spooky Tales That Are Proven To Capture The Attention Of Kids Of All Ages
             </p>
 
-            <a class="flex justify-center" href="">
+            <a class="flex justify-center" href="#cta">
                 <img class="mt-16 w-[100%] md:w-[40%] cta" src="img/cta2.png" alt="">
             </a>
 
@@ -321,25 +317,43 @@
                     <p class="montserrat-regular font-1-2rem text-[#F3E9D3]">
                         All Stories, Scripts, Animations, Voiceovers, And Graphics Are Created By Our Talented Team, Granting You Full Private Label Rights. This Means You Can Use These Chilling Tales As Your Own And Keep 100% Of The Profits!
                     </p>
+
+                    <a href="#produk" class="w-[10%] md:w-[5%] mt-5 md:mt-12" >
+                        <img src="img/arrow2.png" alt="">
+                    </a>
+
                 </div>
             </div>
         </div>
 
-        <div class="bg-2 container-lg">
+        <div id="produk" class="bg-2 container-lg">
             <div class="flex flex-row items-center justify-center py-8 md:py-16 px-5 md:px-16">
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-8">
                     <?php
                     include 'produk.php';
 
-                    for ($i = 0; $i < min(count($produk), 30); $i++) {
-                        $produk_data = $produk[$i];
+                    foreach ($produk as $produk_data) {
                     ?>
                         <div class="bg-5 rounded-2xl flex flex-col justify-center items-center p-5 md:p-8">
                             <h1 class="bg-[#FC9850] rounded-full halloween font-1-5rem px-12 py-2 mb-5 text-center text-[#312E35] leading-none"><?php echo $produk_data['title']; ?></h1>
                             <p class="montserrat-regular font-1rem text-justify text-[#F3E9D3]"><?php echo $produk_data['paragraph']; ?></p>
-                            <div class="flex flex-row justify-center items-center mt-5">
-                                <iframe src="<?php echo $produk_data['preview']; ?>" class="w-[50%] md:w-[40%] h-80 md:h-96 rounded-2xl me-2 md:me-3" allowfullscreen></iframe>
-                                <iframe src="<?php echo $produk_data['trailer']; ?>" class="w-[50%] md:w-[40%] h-80 md:h-96 rounded-2xl ms-2 md:ms-3" allowfullscreen></iframe>
+                            <div class="flex flex-row justify-center items-center">
+                                <div class="flex flex-col justify-center items-center w-[50%] md:w-[45%] mt-3 me-2 md:me-3">
+                                    <h1 class="halloween text-[#312E35] bg-[#F3E9D3] text-center rounded-full font-1-2rem mb-3 px-8">Preview</h1>
+                                    <div class="w-full rounded-2xl relative" style="cursor: pointer;">
+                                        <img src="<?php echo $produk_data['img-preview']; ?>" alt="Preview Image" class="w-full h-auto rounded-2xl preview-image" data-preview-url="<?php echo $produk_data['preview']; ?>" data-product-id="<?php echo $produk_data['id']; ?>">
+                                        <iframe id="preview-video-<?php echo $produk_data['id']; ?>" class="hidden absolute inset-0 w-full h-full rounded-2xl" allowfullscreen></iframe>
+                                        <button id="play-button-preview-<?php echo $produk_data['id']; ?>" onclick="openVideo('<?php echo $produk_data['preview']; ?>', '<?php echo $produk_data['id']; ?>', 'preview')" class="play-button absolute inset-0 flex justify-center items-center text-white text-4xl"><i class="fas fa-play"></i></button>
+                                    </div>
+                                </div>
+                                <div class="flex flex-col justify-center items-center w-[50%] md:w-[45%] mt-3 ms-2 md:ms-3">
+                                    <h1 class="halloween text-[#312E35] bg-[#F3E9D3] text-center rounded-full font-1-2rem mb-3 px-8">Trailer</h1>
+                                    <div class="w-full rounded-2xl relative" style="cursor: pointer;">
+                                        <img src="<?php echo $produk_data['img-trailer']; ?>" alt="Trailer Image" class="w-full h-auto rounded-2xl trailer-image" data-trailer-url="<?php echo $produk_data['trailer']; ?>" data-product-id="<?php echo $produk_data['id']; ?>">
+                                        <iframe id="trailer-video-<?php echo $produk_data['id']; ?>" class="hidden absolute inset-0 w-full h-full rounded-2xl" allowfullscreen></iframe>
+                                        <button id="play-button-trailer-<?php echo $produk_data['id']; ?>" onclick="openVideo('<?php echo $produk_data['trailer']; ?>', '<?php echo $produk_data['id']; ?>', 'trailer')" class="play-button absolute inset-0 flex justify-center items-center text-white text-4xl"><i class="fas fa-play"></i></button>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     <?php
@@ -420,7 +434,7 @@
 
         <div class="bg-5 container-lg">
             <div class="flex flex-col items-center justify-center text-center py-16 px-5 md:px-0">
-                <h1 class="halloween font-2-5rem text-[#FC9850]">
+                <h1 class="halloween font-3-5rem text-[#FC9850]">
                     Unleash the Spooky Fun for Everyone!
                 </h1>
 
@@ -527,27 +541,31 @@
     <div class="container-lg bg-1">
         <div class="flex flex-col items-center justify-center py-8 md:py-16">
             <h1 class="halloween text-[#F3E9D3] text-center font-3rem w-full md:w-[70%] leading-tight">
-                Grant Full Regular To <span class="text-[#FC9850]">"SPOOKIDS"</span> Today! <br> For One Time Investment Only!
+                Grant Your Launch Discount for <br><span class="text-[#FC9850]">"SPOOKIDS"</span> Today! <br> For One Time Investment Only!
             </h1>
 
-            <p class="montserrat-medium text-center font-1-5rem text-[#FC9850] my-8 md:my-12">
-                And Start Making Money by Getting The Reseller Right
+            <p class="montserrat-medium text-center font-2-5rem text-[#FC9850] mt-8 md:mt-5 leading-tight">
+                And Start Making Money by <br>Getting The Reseller Right
+            </p>
+
+            <p class="montserrat-medium text-center font-1-5rem text-[#F3E9D3] my-8 md:my-12">
+                Your Early Bird Discount Valid for the Next
             </p>
 
             <div class="countdown flex justify-center items-start gap-4 text-[#F3E9D3] halloween">
-                <div class="flex flex-col justify-center items-center">
-                    <div class="days text-[4rem] font-medium"></div>
-                    <p class="text-[1.5rem]">Days</p>
+                <div class="flex flex-col justify-center items-center leading-tight">
+                    <div class="days text-[5rem] font-medium"></div>
+                    <p class="text-[2rem]">Days</p>
                 </div>
                 <div class="text-[4rem] font-medium">:</div>
-                <div class="flex flex-col justify-center items-center">
-                    <div class="hours text-[4rem] font-medium"></div>
-                    <p class="text-[1.5rem]">Hours</p>
+                <div class="flex flex-col justify-center items-center leading-tight">
+                    <div class="hours text-[5rem] font-medium"></div>
+                    <p class="text-[2rem]">Hours</p>
                 </div>
                 <div class=" text-[4rem] font-medium">:</div>
-                <div class="flex flex-col justify-center items-center">
-                    <div class="minutes text-[4rem] font-medium"></div>
-                    <p class="text-[1.5rem]">Minutes</p>
+                <div class="flex flex-col justify-center items-center leading-tight">
+                    <div class="minutes text-[5rem] font-medium"></div>
+                    <p class="text-[2rem]">Minutes</p>
                 </div>
             </div>
             <div class="flex flex-col justify-center items-center relative text-white my-8 halloween">
@@ -579,7 +597,7 @@
                     <p>SECONDS</p>
                 </div>
             </div>
-            <a class="flex justify-center mt-8 md:mt-16" href="">
+            <a class="flex justify-center mt-8 md:mt-16" href="#cta">
                 <img class="w-[90%] md:w-[40%] cta" src="img/cta2.png" alt="">
             </a>
         </div>
@@ -682,7 +700,7 @@
                 Advance Licensed Product…
             </h1>
             <h3 class="montserrat-regular font-1-5rem mt-5 w-full md:w-[80%]">
-                <span class="montserrat-medium">The Package Holds Limitless Potential!!</span> - Use it with complete confidence to gain insane profits for your own
+                <span class="montserrat-medium">The Package Holds Limitless Potential!!</span> - Use It With Complete Confidence To Gain Insane Profits For Your Own
             </h3>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 grid-rows-2 gap-5 my-8 md:my-16 text-[#312E35]">
@@ -758,7 +776,7 @@
         </div>
     </div>
 
-    <div class="container-lg bg-1">
+    <div id="cta" class="container-lg bg-1">
         <div class="flex flex-col items-center justify-center text-[#F3E9D3] text-center py-16">
             <h1 class="halloween text-[#F3E9D3] text-center font-3rem w-full md:w-[70%] leading-tight mb-12">
                 Don't Wait Any Longer... <br>
@@ -767,32 +785,32 @@
 
             <img class="p-5 w-[100%] md:w-[90%]" src="img/BoxMockup3-with-phone.png" alt="">
 
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-8 mx-4 md:mx-8 lg:mx-16 p-3 md:p-16">
-                <div class="border-0 bg-2 drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 py-8">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-8 mx-5 md:mx-16 lg:mx-24 my-12">
+                <div class="border-0 bg-2 drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 py-5">
                     <h1 class="bg-[#312E35] rounded-2xl halloween text-[#F3E9D3] font-2rem my-3 py-3">
                         Personal License​
                     </h1>
-                    <div class="flex flex-row items-center montserrat-medium font-1rem mt-8 text-black">
+                    <div class="flex flex-row items-center montserrat-medium font-1rem mt-8 text-[#312E35]">
                         <i class="fas fa-check-circle me-5 text-[#FC9850]"></i>
                         <h3 class="text-start">
                             You can use the product in your own Personal projects and projects you create for clients.
                         </h3>
                     </div>
-                    <div class="flex flex-row items-center montserrat-medium font-1rem mt-3 text-black">
+                    <div class="flex flex-row items-center montserrat-medium font-1rem mt-3 text-[#312E35]">
                         <i class="fas fa-check-circle me-5 text-[#FC9850]"></i>
                         <h3 class="text-start">
                             You can charge your clients money for the projects you create for them using the assets in this product.
                         </h3>
                     </div>
-                    <h1 class="bg-white border-2 border-black rounded-2xl montserrat-medium text-black font-2rem my-8 py-3">
+                    <h1 class="bg-card halloween text-[#312E35] font-2rem my-8 py-3">
                         Normal Price <span class="line-through">$37</span>
                     </h1>
-                    <h2 class="montserrat-medium font-1-2rem text-center text-black">
+                    <h2 class="montserrat-semibold font-1-2rem text-center text-[#312E35]">
                         Get The LOWEST Price Today <br>
                         with <span class="text-[#FC9850]">50% Discount!</span>
                     </h2>
-                    <div class="flex flex-row items-center justify-between montserrat-medium text-black font-1-5rem my-8">
-                        <h3 class="line-through">
+                    <div class="flex flex-row items-center justify-between montserrat-medium text-[#312E35] my-8">
+                        <h3 class="line-through font-1-2rem">
                             Regular Price: $27
                         </h3>
                         <h3 class="montserrat-semibold text-[#FF0404] font-2rem">
@@ -807,31 +825,31 @@
                         <img class="w-[80%] md:w-[90%]" src="img/guarantee.png" alt="">
                     </div>
                 </div>
-                <div class="border-0 bg-2 drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 py-8">
+                <div class="border-0 bg-2 drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 py-5">
                     <h1 class="bg-[#FC9850] rounded-2xl halloween text-[#312E35] font-2rem my-3 py-3">
                         Reseller Right License​
                     </h1>
-                    <div class="flex flex-row items-center montserrat-medium font-1rem mt-8 text-black">
+                    <div class="flex flex-row items-center montserrat-medium font-1rem mt-8 text-[#312E35]">
                         <i class="fas fa-check-circle me-5 text-[#FC9850]"></i>
                         <h3 class="text-start">
                             With this license you can sell this product as your own, under your name, your order buttons, etc...
                         </h3>
                     </div>
-                    <div class="flex flex-row items-center montserrat-medium font-1rem mt-3 text-black">
+                    <div class="flex flex-row items-center montserrat-medium font-1rem mt-3 text-[#312E35]">
                         <i class="fas fa-check-circle me-5 text-[#FC9850]"></i>
                         <h3 class="text-start">
                             With Reseller Right license you can sell unlimited number of copies and keep all of the money.
                         </h3>
                     </div>
-                    <h1 class="bg-white border-2 border-black rounded-2xl montserrat-medium text-black font-2rem my-8 py-3">
+                    <h1 class="bg-card halloween text-[#312E35] font-2rem my-8 py-3">
                         Normal Price <span class="line-through">$37</span>
                     </h1>
-                    <h2 class="montserrat-medium font-1-2rem text-center text-black">
+                    <h2 class="montserrat-semibold font-1-2rem text-center text-[#312E35]">
                         Get The LOWEST Price Today <br>
                         with <span class="text-[#FC9850]">50% Discount!</span>
                     </h2>
-                    <div class="flex flex-row items-center justify-between montserrat-medium text-black font-1-5rem my-8">
-                        <h3 class="line-through">
+                    <div class="flex flex-row items-center justify-between montserrat-medium text-[#312E35] my-8">
+                        <h3 class="line-through font-1-2rem">
                             Regular Price: $27
                         </h3>
                         <h3 class="montserrat-semibold text-[#FF0404] font-2rem">
@@ -848,10 +866,10 @@
                 </div>
             </div>
 
-            <h4 class="font-1-5rem montserrat-medium">
+            <h4 class="font-1-5rem montserrat-medium px-3 md:px-0">
                 You Must HURRY..!!<br>
-                <span class="montserrat-regular">The 50% Discount Only Available for 5 Days During The Launch Event!</span> <br>
-                After 5 Days... Discount Will Be REMOVED!!
+                The <span class="text-[#FC9850]">50% Discount</span> Only Available for <span class="text-[#FC9850]">5 Days</span> During The Launch Event! <br>
+                After 5 Days... Discount Will Be <span class="text-[#FC9850]">REMOVED!!</span>
             </h4>
 
         </div>

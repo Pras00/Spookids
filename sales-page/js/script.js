@@ -1,4 +1,4 @@
-const targetDate = new Date('2024-05-10T09:00:00-05:00').getTime();
+const targetDate = new Date('2024-05-14T09:00:00-05:00').getTime();
 
 const countdown = setInterval(function() {
   const now = new Date().getTime();
@@ -46,20 +46,27 @@ const countdown = setInterval(function() {
   }
 }, 1000);
 
-var preview = document.getElementById('preview');
-var trailer = document.getElementById('trailer');
-    
-function closeModal() {
-    if (preview) {
-        preview.close();
-    }
-    if (trailer) {
-        trailer.close();
-    }
+function openVideo(videoUrl, videoId, videoType) {
+  var video = document.getElementById(videoType + '-video-' + videoId);
+  video.src = videoUrl;
+  video.classList.remove('hidden');
+
+  var playButton = document.querySelector('#play-button-' + videoType + '-' + videoId);
+  if (playButton) {
+    playButton.style.display = 'none';
+  }
 }
 
-window.addEventListener('click', function(event) {
-    if (event.target == preview || event.target == trailer) {
-        closeModal();
-    }
+document.querySelectorAll('.preview-image').forEach(item => {
+  item.addEventListener('click', event => {
+    var productId = item.getAttribute('data-product-id');
+    openVideo(item.getAttribute('data-preview-url'), productId, 'preview');
+  });
+});
+
+document.querySelectorAll('.trailer-image').forEach(item => {
+  item.addEventListener('click', event => {
+    var productId = item.getAttribute('data-product-id');
+    openVideo(item.getAttribute('data-trailer-url'), productId, 'trailer');
+  });
 });
