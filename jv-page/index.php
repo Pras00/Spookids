@@ -69,10 +69,10 @@
 
   <!-- Hero -->
   <section>
-    <div class="flex flex-col justify-center items-center text-center px-40 max-[992px]:px-24 max-[768px]:px-8 max-[480px]:px-4 mt-16 max-[768px]:mt-12 max-[480px]:mt-7">
-      <h1 class="headline text-[4rem] max-[992px]:text-[3rem] max-[768px]:text-[2.65rem] max-[480px]:text-[1.5rem] leading-[4rem] max-[768px]:leading-[3rem] max-[480px]:leading-[2rem] text-[#ffe7b4]">Turn Bedtime into a Spooktacular Adventure with <span class="headline text-[#FC9850] font-">Spookids</span>: The Ultimate Collection of Short Horror Videos for Kids</h1>
+    <div class="flex flex-col justify-center items-center text-center px-32 max-[992px]:px-24 max-[768px]:px-8 max-[480px]:px-4 mt-16 max-[768px]:mt-12 max-[480px]:mt-7">
+      <h1 class="headline text-[4rem] max-[992px]:text-[3rem] max-[768px]:text-[2.65rem] max-[480px]:text-[1.5rem] leading-[4rem] max-[768px]:leading-[3rem] max-[480px]:leading-[2rem] text-[#ffe7b4]">Join Us Promoting <br> Our High Quality Product <br> Get Instant Commissions on <br> Easy to Sell Horror Story Video</h1>
       <div class="bg-[#FC9850] px-10 max-[992px]:px-5 max-[480px]:px-2 py-2 rounded-[20px] mt-5">
-        <h3 class="sub-headline tracking-[1px] text-[1.65rem] max-[992px]:text-[1.5rem] max-[768px]:text-[1.35rem] max-[480px]:text-[0.8rem] text-[#ffe7b4] font-semibold leading-[2rem] max-[768px]:leading-[1.5rem] max-[480px]:leading-[1rem]">Over 30+ Spooky Tales to Choose From: Keep your audience entertained and engaged</h3>
+        <h3 class="sub-headline tracking-[1px] text-[1.65rem] max-[992px]:text-[1.5rem] max-[768px]:text-[1.35rem] max-[480px]:text-[0.8rem] text-[#ffe7b4] font-semibold leading-[2rem] max-[768px]:leading-[1.5rem] max-[480px]:leading-[1rem]">Over 30+ Spooky Tales to Choose From: Instant Commissions, Easy Sales, Happy Customers!</h3>
       </div>
     </div>
     <div class="flex justify-center items-center mt-16 mb-12 max-[768px]:my-8 max-[480px]:my-5">
@@ -141,8 +141,37 @@
   </section>
 
 
+  <!-- Affiliate Link -->
+  <section id="affiliate" class="flex flex-col place-items-center bg-[url('./img/bg-2.png')] bg-white bg-cover bg-center bg-fixed bg-no-repeat py-16 max-[992px]:py-12 max-[768px]:py-10 max-[480px]:py-5">
+    <div class="text-center mb-16">
+      <h1 class="happyHalloween text-[3.5rem] max-[992px]:text-[3rem] max-[768px]:text-[2.75rem] max-[480px]:text-[2rem] leading-[3.5rem] max-[992px]:leading-[3rem] max-[768px]:leading-[2.75rem] max-[480px]:leading-[2rem]">Affiliate Link</h1>
+      <h3 class="font-medium text-[1.25rem] max-[992px]:text-[1.25rem] max-[768px]:text-[1rem] max-[480px]:text-[0.8rem] -tracking-[1px]">Get Your Affiliate Link Now<h3>
+    </div>
+    <div class="grid grid-cols-2 max-[768px]:grid-cols-1 justify-center items-center gap-32 max-[992px]:gap-16 px-10 max-[992px]:px-8 max-992px ">
+      <div class="flex flex-col place-content-center drop-shadow-[4px_4px_7px_rgba(0,0,0,0.3)]">
+        <div class="relative z-[1] text-center text-white flex flex-col place-items-center bg-[url('./img/bg-6.png')] bg-cover bg-center bg-no-repeat border-[4px] border-[#FC9850] px-10 max-[992px]:px-6 max-[768px]:px-12 max-[480px]:px-6 pt-10 max-[992px]:pt-8 max-[480px]:pt-4 pb-20 max-[992px]:pb-16 rounded-tr-[20px] rounded-tl-[20px]">
+          <h3 class="text-[2.5rem] max-[992px]:text-[2.25rem] max-[768px]:text-[2.25rem] max-[480px]:text-[1.75rem] -tracking-[1px] leading-[2.5rem]">Subscribe</h3>
+          <p class="max-[992px]:text-[0.9rem] max-[480px]:text-[0.7rem] font-light -tracking-[1px] max-[480px]:-tracking-[0.5px]">Submit your email to get update on launch and update information</p>
+        </div>
+        <form class="relative z-[2] bg-[#FC9850] w-full h-full flex flex-col justify-center px-10 max-[992px]:px-6 max-[768px]:px-12 max-[480px]:px-6 py-5 max-[480px]:py-3 -mt-12 rounded-[20px] drop-shadow-[0px_-5px_5px_rgba(0,0,0,0.5)]">
+          <label class="text-[1.25rem] max-[480px]:text-[1rem] font-medium mb-1" for="name">Name</label>
+          <input class="max-[480px]:text-[0.9rem] px-4 py-1 rounded-[10px] mb-2" type="text" id="name" name="name" placeholder="Your Name" required />
+          <label class="text-[1.25rem] max-[480px]:text-[1rem] font-medium mb-1" for="email">Email</label>
+          <input class="max-[480px]:text-[0.9rem] px-4 py-1 rounded-[10px] mb-2" type="email" id="email" name="email" placeholder="Your Email" required />
+          <div class="w-full mt-4 max-[992px]:mt-6 max-[768px]:mt-3 max-[480px]:mt-2">
+            <button class="float-end bg-[#312E35] text-white px-8 py-2 rounded-[20px] hover:bg-white hover:border-[#312E35] hover:border-[2px] hover:py-[6px] hover:text-[#312E35] hover:font-medium">Subscribe</button>
+          </div>
+        </form>
+      </div>
+      <div>
+        <img class="w-[30rem]" src="./img/affiliate-element.png" alt="">
+      </div>
+    </div>
+  </section>
+
+
   <!-- About -->
-  <section class="relative flex flex-col place-items-center bg-[url('./img/bg-2.png')] bg-cover bg-no-repeat bg-fixed bg-center py-16 max-[768px]:py-12 max-[480px]:py-8">
+  <section class="relative flex flex-col place-items-center bg-[url('./img/bg-2-2.png')] bg-cover bg-no-repeat bg-fixed bg-center py-16 max-[768px]:py-12 max-[480px]:py-8">
     <div class="absolute top-0 left-0">
       <img class="w-[24rem] max-[992px]:w-[20rem] max-[768px]:w-[14rem] max-[480px]:w-[8.5rem]" src="./img/nest.png" alt="">
     </div>
@@ -152,8 +181,9 @@
     <div>
       <img class="w-[18rem] max-[768px]:w-[14rem] max-[480px]:w-[8rem]" src="./img/introducing.png" alt="">
     </div>
-    <div class="text-center w-[80%] max-[992px]:w-[85%] max-[768px]:w-[90%] max-[480px]:w-[95%] mt-10 max-[768px]:mt-5">
-      <h3 class="text-[1.25rem] max-[768px]:text-[1rem] max-[480px]:text-[0.75rem] max-[768px]:-my-3 max-[480px]:-my-1 font-normal leading-[1.75rem] max-[768px]:leading-[1.5rem] max-[480px]:leading-[1rem]">Forget snoozy bedtime stories! Spooky Short is the animated horror short taking social media by storm and freaking out kids everywhere. This bewitching tale is the ultimate mix of spooky and silly, taking your little adventurers on a thrilling, age-appropriate ride filled with unexpected twists and giggles that will have them begging for more.</h3>
+    <div class="text-center w-[50%] max-[992px]:w-[85%] max-[768px]:w-[90%] max-[480px]:w-[95%] mt-10 max-[768px]:mt-5">
+      <h3 class="text-[1.25rem] max-[768px]:text-[1rem] max-[480px]:text-[0.75rem] max-[768px]:-my-3 max-[480px]:-my-1 font-normal leading-[1.75rem] max-[768px]:leading-[1.5rem] max-[480px]:leading-[1rem] mb-5">Forget snoozy bedtime stories! Spooky Short is the animated horror short taking social media by storm and freaking out kids everywhere. This bewitching tale is the ultimate mix of spooky and silly, taking your little adventurers on a thrilling, age-appropriate ride filled with unexpected twists and giggles that will have them begging for more.</h3>
+      <h3 class="text-[1.25rem] max-[768px]:text-[1rem] max-[480px]:text-[0.75rem] max-[768px]:-my-3 max-[480px]:-my-1 font-normal leading-[1.75rem] max-[768px]:leading-[1.5rem] max-[480px]:leading-[1rem]">Spookids is a brand new and never released before product. This product is made by my professional teams who have more than 10 years of experience in making high-converting digital products.</h3>
     </div>
     <div class="flex justify-center items-center my-12 max-[992px]:my-8 max-[480px]:my-4">
       <img class="w-[65%] max-[992px]:w-[80%] max-[480px]:w-[90%]" src="./img/BoxMockup-phone.png" alt="mockup">
@@ -172,14 +202,14 @@
         <img src="./img/upsell.png" alt="">
       </div>
     </div>
-    <div class="text-center w-[80%] max-[992px]:w-[85%] max-[768px]:w-[90%] max-[480px]:w-[95%] my-12 max-[768px]:my-10">
+    <div class="text-center w-[50%] max-[992px]:w-[85%] max-[768px]:w-[90%] max-[480px]:w-[95%] my-12 max-[768px]:my-10">
       <h3 class="text-[1.25rem] max-[768px]:text-[1rem] max-[480px]:text-[0.75rem] max-[768px]:-my-3 max-[480px]:-my-1 font-normal leading-[1.75rem] max-[768px]:leading-[1.5rem] max-[480px]:leading-[1rem]">Get ready to thrill your audience with Spookids: Horror Story Videos For Kids! Our short. With Spookids, you'll not only entertain but also educate, as our stories are crafted to engage young minds while delivering important lessons. Imagine the excitement as your social media content views skyrocket, thanks to the irresistible allure of Spookids. Don't miss out on this unique opportunity to captivate young minds and elevate your online presence. Dive into Spookids today and unleash the spooky fun!</h3>
     </div>
     <div class="px-28 mb-10">
-      <h3 class="text-center text-[2.5rem] max-[992px]:text-[2rem] max-[768px]:text-[1.5rem] max-[480px]:text-[1.1rem] leading-[2.75rem] max-[768px]:leading-[2rem] max-[480px]:leading-[1.5rem] font-semibold">Here are some specific examples of how can be used by different professions:</h3>
+      <h3 class="text-center text-[2.5rem] max-[992px]:text-[2rem] max-[768px]:text-[1.5rem] max-[480px]:text-[1.1rem] leading-[2.75rem] max-[768px]:leading-[2rem] max-[480px]:leading-[1.5rem] font-semibold">Here are some specific examples <br> of how can be used by different professions:</h3>
     </div>
-    <div class="flex flex-col justify-center items-center gap-5 px-24 max-[768px]:px-10 max-[480px]:px-1">
-      <div class="grid grid-cols-2 max-[992px]:grid-cols-1 max-[768px]:grid-cols-1 max-[480px]:grid-cols-1 gap-5">
+    <div class="flex flex-col justify-center items-center gap-5 px-64 max-[768px]:px-10 max-[480px]:px-1">
+      <div class="grid grid-cols-2 max-[992px]:grid-cols-1 max-[768px]:grid-cols-1 max-[480px]:grid-cols-1 gap-x-10 gap-y-5">
         <div class="flex justify-center items-center gap-3 py-2 bg-[#FC9850] rounded-[50px] px-8 max-[480px]:px-5 drop-shadow-[1px_2px_5px_rgba(0,0,0,0.3)] border-[2px] border-[#312E35]">
           <img class="w-[3rem] max-[480px]:w-[3.25rem]" src="./img/educator.png" alt="">
           <div class="text-[#312E35]">
@@ -309,33 +339,7 @@
   </section>
 
 
-  <!-- Affiliate Link -->
-  <section id="affiliate" class="flex flex-col place-items-center bg-[url('./img/bg-2.png')] bg-cover bg-center bg-fixed bg-no-repeat py-16 max-[992px]:py-12 max-[768px]:py-10 max-[480px]:py-5">
-    <div class="text-center mb-16">
-      <h1 class="happyHalloween text-[3.5rem] max-[992px]:text-[3rem] max-[768px]:text-[2.75rem] max-[480px]:text-[2rem] leading-[3.5rem] max-[992px]:leading-[3rem] max-[768px]:leading-[2.75rem] max-[480px]:leading-[2rem]">Affiliate Link</h1>
-      <h3 class="font-medium text-[1.25rem] max-[992px]:text-[1.25rem] max-[768px]:text-[1rem] max-[480px]:text-[0.8rem] -tracking-[1px]">Get Your Affiliate Link Now<h3>
-    </div>
-    <div class="grid grid-cols-2 max-[768px]:grid-cols-1 justify-center items-center gap-32 max-[992px]:gap-16 px-10 max-[992px]:px-8 max-992px ">
-      <div class="flex flex-col place-content-center drop-shadow-[4px_4px_7px_rgba(0,0,0,0.3)]">
-        <div class="relative z-[1] text-center text-white flex flex-col place-items-center bg-[url('./img/bg-6.png')] bg-cover bg-center bg-no-repeat border-[4px] border-[#FC9850] px-10 max-[992px]:px-6 max-[768px]:px-12 max-[480px]:px-6 pt-10 max-[992px]:pt-8 max-[480px]:pt-4 pb-20 max-[992px]:pb-16 rounded-tr-[20px] rounded-tl-[20px]">
-          <h3 class="text-[2.5rem] max-[992px]:text-[2.25rem] max-[768px]:text-[2.25rem] max-[480px]:text-[1.75rem] -tracking-[1px] leading-[2.5rem]">Subscribe</h3>
-          <p class="max-[992px]:text-[0.9rem] max-[480px]:text-[0.7rem] font-light -tracking-[1px] max-[480px]:-tracking-[0.5px]">Submit your email to get update on launch and update information</p>
-        </div>
-        <form class="relative z-[2] bg-[#FC9850] w-full h-full flex flex-col justify-center px-10 max-[992px]:px-6 max-[768px]:px-12 max-[480px]:px-6 py-5 max-[480px]:py-3 -mt-12 rounded-[20px] drop-shadow-[0px_-5px_5px_rgba(0,0,0,0.5)]">
-          <label class="text-[1.25rem] max-[480px]:text-[1rem] font-medium mb-1" for="name">Name</label>
-          <input class="max-[480px]:text-[0.9rem] px-4 py-1 rounded-[10px] mb-2" type="text" id="name" name="name" placeholder="Your Name" required />
-          <label class="text-[1.25rem] max-[480px]:text-[1rem] font-medium mb-1" for="email">Email</label>
-          <input class="max-[480px]:text-[0.9rem] px-4 py-1 rounded-[10px] mb-2" type="email" id="email" name="email" placeholder="Your Email" required />
-          <div class="w-full mt-4 max-[992px]:mt-6 max-[768px]:mt-3 max-[480px]:mt-2">
-            <button class="float-end bg-[#312E35] text-white px-8 py-2 rounded-[20px] hover:bg-white hover:border-[#312E35] hover:border-[2px] hover:py-[6px] hover:text-[#312E35] hover:font-medium">Subscribe</button>
-          </div>
-        </form>
-      </div>
-      <div>
-        <img class="w-[30rem]" src="./img/affiliate-element.png" alt="">
-      </div>
-    </div>
-  </section>
+  
 
 
   <!-- Terms and Condition -->
