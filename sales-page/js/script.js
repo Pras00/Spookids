@@ -48,16 +48,13 @@ const countdown = setInterval(function() {
 
 
 function openVideo(videoUrl, videoId, videoType) {
-    // Temukan semua iframe video yang sedang diputar
     var allVideos = document.querySelectorAll('iframe');
     allVideos.forEach(function(video) {
-        // Hentikan pemutaran video yang tidak sedang diputar
         if (video.getAttribute('id') !== videoType + '-video-' + videoId) {
             video.contentWindow.postMessage('{"event":"command","func":"' + 'pauseVideo' + '","args":""}', '*');
         }
     });
 
-    // Memainkan video preview atau trailer
     var video = document.getElementById(videoType + '-video-' + videoId);
     video.src = videoUrl;
     video.classList.remove('hidden');
@@ -68,7 +65,6 @@ function openVideo(videoUrl, videoId, videoType) {
     }
 }
 
-// Panggil fungsi openVideo saat gambar preview diklik
 document.querySelectorAll('.preview-image').forEach(item => {
     item.addEventListener('click', event => {
         var productId = item.getAttribute('data-product-id');
@@ -77,7 +73,6 @@ document.querySelectorAll('.preview-image').forEach(item => {
     });
 });
 
-// Panggil fungsi openVideo saat gambar trailer diklik
 document.querySelectorAll('.trailer-image').forEach(item => {
     item.addEventListener('click', event => {
         var productId = item.getAttribute('data-product-id');
