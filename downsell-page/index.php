@@ -277,7 +277,7 @@
 
                     foreach ($produk as $produk_data) {
                     ?>
-                        <div class="bg-5 rounded-2xl flex flex-col justify-center items-center p-5 md:p-8">
+                         <div class="bg-5 rounded-2xl flex flex-col justify-center items-center p-5 md:p-8">
                             <h1 class="bg-[#FC9850] rounded-full halloween font-1-5rem px-12 py-2 mb-5 text-center text-[#312E35] leading-none"><?php echo $produk_data['title']; ?></h1>
                             <p class="montserrat-regular font-1rem text-justify text-[#F3E9D3]"><?php echo $produk_data['paragraph']; ?></p>
                             <div class="flex flex-row justify-center items-center">

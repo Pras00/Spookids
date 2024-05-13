@@ -6,8 +6,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '2',
@@ -15,8 +15,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '3',
@@ -24,8 +24,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '4',
@@ -33,8 +33,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '5',
@@ -42,8 +42,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '6',
@@ -51,8 +51,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '7',
@@ -60,8 +60,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '8',
@@ -69,8 +69,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '9',
@@ -78,8 +78,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '10',
@@ -87,8 +87,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '11',
@@ -96,8 +96,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '12',
@@ -105,8 +105,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '13',
@@ -114,8 +114,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '14',
@@ -123,8 +123,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '15',
@@ -132,8 +132,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '16',
@@ -141,8 +141,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '17',
@@ -150,8 +150,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '18',
@@ -159,8 +159,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '19',
@@ -168,8 +168,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '20',
@@ -177,8 +177,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '21',
@@ -186,8 +186,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '22',
@@ -195,8 +195,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '23',
@@ -204,8 +204,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '24',
@@ -213,8 +213,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '25',
@@ -222,8 +222,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '26',
@@ -231,8 +231,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '27',
@@ -240,8 +240,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and j  industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '28',
@@ -249,8 +249,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '29',
@@ -258,8 +258,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '30',
@@ -267,8 +267,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '31',
@@ -276,8 +276,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '32',
@@ -285,8 +285,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '33',
@@ -294,8 +294,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '34',
@@ -303,8 +303,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '35',
@@ -312,8 +312,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '36',
@@ -321,8 +321,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '37',
@@ -330,8 +330,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '38',
@@ -339,8 +339,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '39',
@@ -348,8 +348,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '40',
@@ -357,8 +357,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '41',
@@ -366,8 +366,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '42',
@@ -375,8 +375,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '43',
@@ -384,8 +384,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '44',
@@ -393,8 +393,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '45',
@@ -402,8 +402,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '46',
@@ -411,8 +411,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '47',
@@ -420,8 +420,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '48',
@@ -429,8 +429,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '49',
@@ -438,8 +438,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '50',
@@ -447,8 +447,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '51',
@@ -456,8 +456,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '52',
@@ -465,8 +465,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '53',
@@ -474,8 +474,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '54',
@@ -483,8 +483,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '55',
@@ -492,8 +492,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '56',
@@ -501,8 +501,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '57',
@@ -510,8 +510,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '58',
@@ -519,8 +519,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '59',
@@ -528,8 +528,8 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
     array(
         'id' => '60',
@@ -537,7 +537,7 @@ $produk = array(
         'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
         'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
         'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
-        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
-        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw?autoplay=1&enablejsapi=1'
     ),
 );
