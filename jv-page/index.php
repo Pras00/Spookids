@@ -6,6 +6,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="style.css">
   <script src="https://cdn.tailwindcss.com"></script> 
   <title>JV Page</title>
@@ -262,14 +264,28 @@
     <div class="grid grid-cols-2 max-[768px]:grid-cols-1 place-items-center gap-10 max-[480px]:gap-7">
       <?php 
         include './produk.php';
-        foreach ($produk as $item):
+        foreach ($produk as $item): 
       ?>
         <div class="bg-[url('./img/bg-7.png')] bg-cover bg-center bg-no-repeat rounded-[20px] flex flex-col justify-center items-center text-center px-5 max-[768px]:px-4 py-8">
           <h3 class="happyHalloween bg-[#FC9850] border-[2px] border-[#312E35] text-[1.5rem] max-[992px]:text-[1.25rem] max-[768px]:text-[1.5rem] max-[480px]:text-[1.25rem] px-12 rounded-full"><?= $item['title']; ?></h3>
           <p class="py-5 max-[992px]:text-[0.8rem] max-[768px]:text-[0.9rem] max-[480px]:text-[0.8rem]"><?= $item['paragraph']; ?></p>
-          <div class="flex justify-center items-center gap-5">
-            <iframe src="<?= $item['preview']; ?>" class="w-[15vw] max-[1280px]:w-[16vw] h-[24rem] max-[768px]:w-[24vw] max-[600px]:w-[30vw] max-[480px]:w-[35vw] max-[1024px]:h-[18rem] max-[992px]:h-[15rem] max-[768px]:h-[18rem] max-[600px]:h-[18rem] rounded-2xl" allowfullscreen></iframe>
-            <iframe src="<?= $item['trailer']; ?>" class="w-[15vw] max-[1280px]:w-[16vw] h-[24rem] max-[768px]:w-[24vw] max-[600px]:w-[30vw] max-[480px]:w-[35vw] max-[1024px]:h-[18rem] max-[992px]:h-[15rem] max-[768px]:h-[18rem] max-[600px]:h-[18rem] rounded-2xl" allowfullscreen></iframe>
+          <div class="flex flex-row justify-center items-center">
+            <div class="flex flex-col justify-center items-center w-[50%] md:w-[45%] mt-3 me-2 md:me-3">
+              <h1 class="happyHalloween text-[#F3E9D3] bg-[#312E35] text-center rounded-full font-1-2rem mb-3 px-8">Preview</h1>
+              <div class="w-full rounded-2xl relative" style="cursor: pointer;">
+                <img src="<?php echo $item['img-preview']; ?>" alt="Preview Image" class="w-full h-auto rounded-2xl preview-image" data-preview-url="<?php echo $item['preview']; ?>" data-product-id="<?php echo $item['id']; ?>">
+                <iframe id="preview-video-<?php echo $item['id']; ?>" class="hidden absolute inset-0 w-full h-full rounded-2xl" allowfullscreen></iframe>
+                <button id="play-button-preview-<?php echo $item['id']; ?>" onclick="openVideo('<?php echo $item['preview']; ?>', '<?php echo $item['id']; ?>', 'preview')" class="play-button absolute inset-0 flex justify-center items-center text-white text-4xl"><i class="fas fa-play"></i></button>
+              </div>
+            </div>
+            <div class="flex flex-col justify-center items-center w-[50%] md:w-[45%] mt-3 ms-2 md:ms-3">
+              <h1 class="happyHalloween text-[#F3E9D3] bg-[#312E35] text-center rounded-full font-1-2rem mb-3 px-8">Trailer</h1>
+              <div class="w-full rounded-2xl relative" style="cursor: pointer;">
+                <img src="<?php echo $item['img-trailer']; ?>" alt="Trailer Image" class="w-full h-auto rounded-2xl trailer-image" data-trailer-url="<?php echo $item['trailer']; ?>" data-product-id="<?php echo $item['id']; ?>">
+                <iframe id="trailer-video-<?php echo $item['id']; ?>" class="hidden absolute inset-0 w-full h-full rounded-2xl" allowfullscreen></iframe>
+                <button id="play-button-trailer-<?php echo $item['id']; ?>" onclick="openVideo('<?php echo $item['trailer']; ?>', '<?php echo $item['id']; ?>', 'trailer')" class="play-button absolute inset-0 flex justify-center items-center text-white text-4xl"><i class="fas fa-play"></i></button>
+              </div>
+            </div>
           </div>
         </div>
       <?php endforeach; ?>
@@ -386,6 +402,7 @@
   </section>
 
 
+  <script src="./js/script.js"></script>
   <script src="./script.js"></script>
 </body>
 </html>
