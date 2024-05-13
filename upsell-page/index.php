@@ -169,7 +169,7 @@
                 Why Upgrade to Spookids Pro?
             </h2>
 
-            <img class="w-[60%] md:w-[25%] my-5" src="img/img-why.png" alt="">
+            <img class="w-[60%] md:w-[25%] my-5" src="img/why.png" alt="">
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-2 gap-5 w-full md:w-[80%]">
                 <div class="border-4 border-[#FC9850] bg-[#312E35] rounded-2xl">

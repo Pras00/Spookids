@@ -531,4 +531,13 @@ $produk = array(
         'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
         'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
     ),
+    array(
+        'id' => '60',
+        'title' => 'Wolves in Forest',
+        'paragraph' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.',
+        'img-preview' => 'img/The Inhabitant of the Southern Beach.png',
+        'img-trailer' => 'img/The Inhabitant of the Southern Beach.png',
+        'preview' => 'https://www.youtube.com/embed/y6oMutwJQCw',
+        'trailer' => 'https://www.youtube.com/embed/y6oMutwJQCw'
+    ),
 );

@@ -606,7 +606,7 @@
     <div class="bg-[#F3E9D3] container-lg">
         <div class="flex flex-col items-center justify-center text-center py-16 px-5 md:px-0">
             <h1 class="halloween font-2-5rem text-[#312E35] w-full md:w-[60%]">
-                You Are Able to Get <span class="text-[#FC9850]">Reseller Rights</span><br>To Make BIG Money... FASTER... EASIER!!
+                You Are Able to Get <span class="text-[#FC9850] text-stroke">Reseller Rights</span><br>To Make BIG Money... FASTER... EASIER!!
             </h1>
 
             <div class="border-0 bg-5 drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 py-8 mt-16 w-full md:w-[70%] flex flex-col md:flex-row items-center justify-center">
@@ -923,6 +923,7 @@
     </div>
 
     <?php include('privacypolicy.php') ?>
+    <script src="https://www.youtube.com/iframe_api"></script>
     <script src="js/script.js"></script>
 </body>
 

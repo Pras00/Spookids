@@ -46,27 +46,42 @@ const countdown = setInterval(function() {
   }
 }, 1000);
 
-function openVideo(videoUrl, videoId, videoType) {
-  var video = document.getElementById(videoType + '-video-' + videoId);
-  video.src = videoUrl;
-  video.classList.remove('hidden');
 
-  var playButton = document.querySelector('#play-button-' + videoType + '-' + videoId);
-  if (playButton) {
-    playButton.style.display = 'none';
-  }
+function openVideo(videoUrl, videoId, videoType) {
+    // Temukan semua iframe video yang sedang diputar
+    var allVideos = document.querySelectorAll('iframe');
+    allVideos.forEach(function(video) {
+        // Hentikan pemutaran video yang tidak sedang diputar
+        if (video.getAttribute('id') !== videoType + '-video-' + videoId) {
+            video.contentWindow.postMessage('{"event":"command","func":"' + 'pauseVideo' + '","args":""}', '*');
+        }
+    });
+
+    // Memainkan video preview atau trailer
+    var video = document.getElementById(videoType + '-video-' + videoId);
+    video.src = videoUrl;
+    video.classList.remove('hidden');
+
+    var playButton = document.querySelector('#play-button-' + videoType + '-' + videoId);
+    if (playButton) {
+        playButton.style.display = 'none';
+    }
 }
 
+// Panggil fungsi openVideo saat gambar preview diklik
 document.querySelectorAll('.preview-image').forEach(item => {
-  item.addEventListener('click', event => {
-    var productId = item.getAttribute('data-product-id');
-    openVideo(item.getAttribute('data-preview-url'), productId, 'preview');
-  });
+    item.addEventListener('click', event => {
+        var productId = item.getAttribute('data-product-id');
+        var videoUrl = item.getAttribute('data-preview-url');
+        openVideo(videoUrl, productId, 'preview');
+    });
 });
 
+// Panggil fungsi openVideo saat gambar trailer diklik
 document.querySelectorAll('.trailer-image').forEach(item => {
-  item.addEventListener('click', event => {
-    var productId = item.getAttribute('data-product-id');
-    openVideo(item.getAttribute('data-trailer-url'), productId, 'trailer');
-  });
+    item.addEventListener('click', event => {
+        var productId = item.getAttribute('data-product-id');
+        var videoUrl = item.getAttribute('data-trailer-url');
+        openVideo(videoUrl, productId, 'trailer');
+    });
 });

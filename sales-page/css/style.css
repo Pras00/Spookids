@@ -223,3 +223,7 @@
 html {
     scroll-behavior: smooth;
 }
+
+.text-stroke {
+    text-shadow: -1px -1px 0 #312E35, 1px -1px 0 #312E35, -1px 1px 0 #312E35, 1px 1px 0 #312E35;
+}

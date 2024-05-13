@@ -92,6 +92,7 @@
         "The Night Cries at the Old Well: A Spooky Tale for Children", 
         "The Ghost Apparition in the Abandoned Hospital", 
         "The Spooky Spaghetti Spooked by the Chef", 
-        "The Gardener Ghost Who Plants Mysterious Flowers on Halloween Night"
+        "The Gardener Ghost Who Plants Mysterious Flowers on Halloween Night",
+        "Wolves in Forest"
     );
 ?>
