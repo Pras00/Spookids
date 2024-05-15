@@ -59,7 +59,7 @@
         "Ghost of the Orange Tree", 
         "Diego and the Mysterious Ice Cream Cart", 
         "Little Witch in the Old Grave", 
-        "I Have a Ghost Mother", 
+        "Is My Mother a Ghost?", 
         "Spider's Nest", 
         "The Inhabitant of the Southern Beach", 
         "The Scary Tale of the Wewe Gombel Ghost Haunting Children at the Swimming Pool", 
@@ -93,6 +93,6 @@
         "The Ghost Apparition in the Abandoned Hospital", 
         "The Spooky Spaghetti Spooked by the Chef", 
         "The Gardener Ghost Who Plants Mysterious Flowers on Halloween Night",
-        "Wolves in Forest"
+        "Wolf in Forest"
     );
 ?>

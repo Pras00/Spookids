@@ -1,5 +1,6 @@
 <div class="container-lg bg-5">
     <div class="flex flex-col items-center justify-center text-center py-12 p-5 md:p-16">
+        <img class="w-[50%] md:w-[20%] mb-8" src="img/logo-spookids.png" alt="">
         <h3 class="text-[#F3E9D3] font-1rem montserrat-regular">
             ALL TRADEMARKS AND LOGOS ARE THE PROPERTY OF THEIR RESPECTIVE OWNERS. THIS SITE AND THE PRODUCTS AND SERVICES OFFERED ON THIS SITE ARE NOTASSOCIATED, AFFILIATED, ENDORSED, OR SPONSORED BY ANY BUSINESS LISTED ON THIS PAGE NOR HAVE THEY BEEN REVIEWED TESTED OR CERTIFIED BY ANY OTHER COMPANY LISTED ON THIS PAGE.
         </h3>

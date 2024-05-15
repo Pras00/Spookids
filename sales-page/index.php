@@ -209,6 +209,20 @@
                 In The Age Of Short Attention Spans, It's More Important Than Ever To Have Engaging Content That Kids Will Love. With Spookids, You'll Have Access To A Library Of Over 30+ Spooky Tales That Are Proven To Capture The Attention Of Kids Of All Ages
             </p>
 
+            <p class="halloween font-3rem mt-12">
+                Come With Reseller Right
+            </p>
+
+            <img class="my-5 w-[100%] md:w-[60%] rounded-lg" src="img/sertif.png" alt="">
+
+            <p class="montserrat-regular font-2rem w-full md:w-[70%] my-8 leading-tight">
+                Unlock Unlimited Potential with Our Exclusive Reseller Right Digital Product Spookids for Resellers!
+            </p>
+
+            <p class="montserrat-regular font-1-2rem w-full md:w-[70%]">
+                Are You Ready To Revolutionize Your Reselling Business And Amplify Your Profits? Introducing Our Premium Digital Product Spookids - The Ultimate Solution Designed Exclusively For Resellers Like You, Now Available With a Flexible Reseller License!
+            </p>
+
             <a class="flex justify-center" href="#cta">
                 <img class="mt-16 w-[100%] md:w-[40%] cta" src="img/cta2.png" alt="">
             </a>
@@ -318,7 +332,7 @@
                         All Stories, Scripts, Animations, Voiceovers, And Graphics Are Created By Our Talented Team, Granting You Full Private Label Rights. This Means You Can Use These Chilling Tales As Your Own And Keep 100% Of The Profits!
                     </p>
 
-                    <a href="#produk" class="w-[10%] md:w-[5%] mt-5 md:mt-12" >
+                    <a href="#produk" class="w-[10%] md:w-[5%] mt-5 md:mt-12">
                         <img src="img/arrow2.png" alt="">
                     </a>
 
