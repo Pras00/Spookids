@@ -305,7 +305,7 @@
                 <div class="hidden md:flex flex-row items-center justify-center me-5 md:me-0">
                     <img class="w-[15%] md:w-[10%] me-1 md:me-3" src="img/icon.png" alt="">
                     <h1 class="halloween font-2-5rem text-[#312E35]">SPOOKIDS!</h1>
-                </div>
+                </div>  
                 <div class="hidden md:flex flex-row items-center justify-center me-5 md:me-0">
                     <img class="w-[15%] md:w-[10%] me-1 md:me-3" src="img/icon.png" alt="">
                     <h1 class="halloween font-2-5rem text-[#312E35]">SPOOKIDS!</h1>
