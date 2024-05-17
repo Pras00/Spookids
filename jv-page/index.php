@@ -256,7 +256,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section>l
 
 
   <!-- Module -->
