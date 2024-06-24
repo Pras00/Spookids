@@ -256,7 +256,7 @@
         </div>
       </div>
     </div>
-  </section>l
+  </section>
 
 
   <!-- Module -->
@@ -353,10 +353,6 @@
       </div>
     </div>
   </section>
-
-
-  
-
 
   <!-- Terms and Condition -->
   <section class="bg-[url('./img/bg-6.png')] bg-cover bg-center bg-no-repeat bg-fixed py-16 max-[992px]:py-12 max-[768px]:py-10 max-[480px]:py-5 px-28 max-[992px]:px-16 max-[768px]:px-10 max-[480px]:px-5">
